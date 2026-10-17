@@ -26,7 +26,28 @@ import.
 The labels of the test set were also checked by hand after the harvest. That
 review is not part of these notebooks.
 
-## Data (not included)
+## The test set
+
+`output/misspellings.tsv` is the final test set: 950 mutated addresses quoted
+in court decisions, one per row.
+
+| Column | Contents |
+|---|---|
+| `address` | The address as written in the decision. |
+| `matched` | The G-NAF Core address the harvest matched it to. For an unmatchable row, this is the closest street the harvest found, not a correct record. |
+| `reason` | Every mistake the address contains, separated by semicolons. |
+| `adjudication` | Filled for the 43 rows checked in the manual label review. It says how the reason was set: by the harvest's rule, edited by hand, or assigned by hand. |
+
+789 rows are matchable and 161 are unmatchable. A row is unmatchable when its
+reason contains "Cannot be matched" (32 rows) or "Street number does not
+exist" (129 rows).
+
+The notebooks read the file from this path, and notebooks 5 and 6 check its
+sha1 (d48fdfe227fd6ef7828384f020e3042d18873101). Re-running notebook 1 does
+not overwrite it: when the file has an `adjudication` column, the harvest
+writes `output/misspellings.harvest.tsv` instead.
+
+## Source data (not included)
 
 All three sources are public.
 
@@ -83,6 +104,9 @@ Warnings, progress bars and install messages were removed. Cells 3, 4, 9b and
 21 of notebook 1 have no saved output.
 
 ## Data licences
+
+The test set holds addresses quoted in the Open Australian Legal Corpus and
+addresses from G-NAF Core, under the licences below.
 
 This research was developed using G-NAF Core © Geoscape Australia 2023
 Copyright and Disclaimer Notice. Licensed by Geoscape Australia under the Open

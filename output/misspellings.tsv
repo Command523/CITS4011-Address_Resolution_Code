@@ -1,0 +1,951 @@
+address	matched	reason	adjudication
+1 Constitution Avenue Brisbane QLD 4000	CONSETT AVENUE BONDI BEACH NSW 2026	Cannot be matched	
+1 King William Street Perth WA 6000	WILLIAM STREET PERTH WA 6000	Cannot be matched	
+1 Northpoint Plaza Belconnen ACT 2617	JOSEPHSON STREET BELCONNEN ACT 2617	Cannot be matched	
+11 Carlisle Street, Bondi NSW 2026	11 CARLISLE ST, TAMARAMA NSW 2026	Wrong suburb (a different real locality)	round2_reject_review; reason_by_harvest_rule
+111 St Georges Terrace Adelaide SA 5000	WEST TERRACE ADELAIDE SA 5000	Cannot be matched	
+1138 Brookhollow Ave Baulkham Hills NSW 2135		Cannot be matched	
+120 Eagleview Drive Baulkham Hills NSW 2153	CROPLEY DRIVE BAULKHAM HILLS NSW 2153	Cannot be matched	
+1200 Singleton Road East Kurrajong NSW 2758		Cannot be matched	
+127-129 Marion Street corner Edith Street, Leichhardt NSW 2040	127-129 MARION ST, LEICHHARDT NSW 2040	Street name missing or gaining a word	round2_reject_review; reason_by_harvest_rule
+13 Centro Roselands Roselands Drive, Roselands, NSW 2196	PENTLAND AVENUE ROSELANDS NSW 2196	Cannot be matched	
+14 Moore Street Sydney NSW 2000	MARKET STREET SYDNEY NSW 2000	Cannot be matched	
+146 Joynton Avenue Rosebery NSW 2018	146-158 JOYNTON AV, ZETLAND NSW 2017	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+18 Abercombe Street, Warrnambool, VIC 3280	LATROBE STREET WARRNAMBOOL VIC 3280	Cannot be matched	
+180 Florence Road, Hurstville NSW 2220	FOREST ROAD HURSTVILLE NSW 2220	Cannot be matched	
+2 MOD eateet East Botany, NSW 2019	DENT STREET BOTANY NSW 2019	Cannot be matched	
+2 Marshall Street, Wagga Wagga NSW 2650	2 MARSHALL ST, ASHMONT NSW 2650	Wrong suburb (a different real locality)	round2_reject_review; reason_by_harvest_rule
+22 bby St, Masrcnee NSW 2204	RUBY STREET MARRICKVILLE NSW 2204	Cannot be matched	
+25 Grenfell Street Hobart TAS 7000	WIGNALL STREET NORTH HOBART TAS 7000	Cannot be matched	
+26 Smokey Ridge Drive Arrakoon NSW 2431	26 SMOKY RIDGE DR, ARAKOON NSW 2431	Street name misspelt (1 character); Suburb misspelt (1-2 characters)	round2_reject_review; reason_edited_by_hand
+29 Norwest Business Park Solent Cct Baulkham Hills NSW 2153	29-31 SOLENT CCT, NORWEST NSW 2153	Street name missing or gaining a word; Wrong suburb (a different real locality)	round2_reject_review; reason_hand_assigned
+3 Berwick Street, Randwick NSW 2031	RANDWICK STREET RANDWICK NSW 2031	Cannot be matched	
+3 Kalla Vista, Success WA 6164	CALLARA VISTA SUCCESS WA 6164	Cannot be matched	
+330 Balook Road CALLIGNEE VIC 3844	330 TRARALGON-BALOOK RD, CALLIGNEE VIC 3844	Street name missing or gaining a word	round2_reject_review; reason_edited_by_hand
+34-36 Oxford Street Sydney NSW 2000	YORK STREET SYDNEY NSW 2000	Cannot be matched	
+38 Algona Street Lavington NSW 2641	38 ALGONA RD, SPRINGDALE HEIGHTS NSW 2641	Wrong suburb (a different real locality); Street type wrong (e.g. Road vs Avenue)	round2_reject_review; reason_by_harvest_rule
+4/456 Rocky Point Rd Sans Souci NSW 2219	456-462 ROCKY POINT RD, SANS SOUCI NSW 2219	Unit, level or lot detail differs	round2_reject_review; reason_edited_by_hand
+447 Collins Street Sydney NSW 2000		Cannot be matched	
+46 / 101 Spurway Drive Baulkham Hills NSW 2153	DELANEY DRIVE BAULKHAM HILLS NSW 2153	Cannot be matched	
+48 Beachworth Avenue, Greystanes, New South Wales, 2145	BEECHWOOD AVENUE GREYSTANES NSW 2145	Cannot be matched	
+5 Junction Street BILOELA QLD 4715	MURCHISON STREET BILOELA QLD 4715	Cannot be matched	
+5545 Leongathard Road INVERLOCH VIC 3996		Cannot be matched	
+575 Kings way MIRANDA NSW 2228	575 KINGSWAY, MIRANDA NSW 2228	Street name spacing or apostrophe wrong	round2_reject_review; reason_edited_by_hand
+66 MLC Centre Martin Place Sydney, NSW 2000	PHILLIP STREET SYDNEY NSW 2000	Cannot be matched	
+69 Sunnyhill Avenue Burradoo NSW 2576	SUNNINGHILL AVENUE BURRADOO NSW 2576	Cannot be matched	
+6B Bissey Road, Beechworth, Victoria 3747	DIFFEY ROAD BEECHWORTH VIC 3747	Cannot be matched	
+72 Bartholomew Street, Lavington, NSW, 2641		Cannot be matched	
+77 St Georges Terrace Darwin NT 0800	ST GEORGES TERRACE PERTH WA 6000	Cannot be matched	
+8 Kendall Street, Granville NSW 2142	8 KENDALL ST, CLYDE NSW 2142	Wrong suburb (a different real locality)	round2_reject_review; reason_by_harvest_rule
+9 Sawyer Avenues West Moonah Tasmania 7009	9 SAWYER AV, WEST MOONAH TAS 7009	Street type wrong (e.g. Road vs Avenue)	round2_reject_review; reason_edited_by_hand
+91 Grenfell Street Melbourne VIC 3000	RUSSELL STREET MELBOURNE VIC 3000	Cannot be matched	
+Level 12, 460 Lonsdale Street Sydney NSW 2000	GEORGE STREET SYDNEY NSW 2000	Cannot be matched	
+Level 2, 49-51 Wellington Street, Prahran, Victoria 3181	49-51 WELLINGTON ST, ST KILDA VIC 3182	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+Level 4, 29-31 Solvent Circuit, Baulkham Hills, NSW 2153	OWEN AVENUE BAULKHAM HILLS NSW 2153	Cannot be matched	
+Lot 11 Longleys Road, Badgerys Creek NSW 2555	LONGEYS ROAD BIRCHS BAY TAS 7162	Cannot be matched	
+Lot 8 Silverwater Estate Berowra Creek, NSW 2081	OVERTON CLOSE BEROWRA NSW 2081	Cannot be matched	
+1 Chidley Way, Mosman Park, Western Australia, 6102	1 CHIDLEY WAY, MOSMAN PARK WA 6012	Postcode does not match	
+1 Yatama St, Seaforth, NSW 2019	1 YATAMA ST, SEAFORTH NSW 2092	Postcode does not match	
+1/8 Fall Street, Cremorne, NSW 2089	UNIT 2 8 FALL ST, CAMMERAY NSW 2062	Postcode does not match	
+10 Hillside Crescent, Stanwell Park, NSW 2058	10 HILLSIDE CR, STANWELL PARK NSW 2508	Postcode does not match	
+10 Rosebank Avenue, Elizabeth Hills NSW 2170	10 ROSEBANK AV, ELIZABETH HILLS NSW 2171	Postcode does not match	
+10/64 Ware Street, Fairfield, NSW, 2164	64 WARE ST, FAIRFIELD NSW 2165	Postcode does not match	
+101 Albany Street Point Frederick NSW 2256	101 ALBANY ST, POINT FREDERICK NSW 2250	Postcode does not match	
+101 Grafton Street, Bondi Junction NSW 2021	WESTFIELD SHOPPING CENTRE 101 GRAFTON ST, BONDI JUNCTION NSW 2022	Postcode does not match	
+102 Snell Grove, Oak Park VIC 3048	102 SNELL GR, OAK PARK VIC 3046	Postcode does not match	
+108 Ewing Road, Woodridge, Queensland, 4144	108 EWING RD, WOODRIDGE QLD 4114	Postcode does not match	
+109 Lawrence Hargrave Drive, Stanwell Park NSW 2509	109 LAWRENCE HARGRAVE DR, STANWELL PARK NSW 2508	Postcode does not match	
+11 Lyall Street South Perth WA 6959	11 LYALL ST, SOUTH PERTH WA 6151	Postcode does not match	
+115 Quarry Road, Bossley Park NSW 2170	115 QUARRY RD, BOSSLEY PARK NSW 2176	Postcode does not match	
+119 Vanessa Street Kingsgrove NSW 1480	119 VANESSA ST, KINGSGROVE NSW 2208	Postcode does not match	
+12-14 Norman Street Peakhurst NSW 2010	UNIT 1 12-14 NORMAN ST, PEAKHURST NSW 2210	Postcode does not match	
+123 Marius Street, Tamworth NSW 2343	123 MARIUS ST, TAMWORTH NSW 2340	Postcode does not match	
+13 Ramel Way, Pakenham VIC 3180	13 RAMEL WAY, PAKENHAM VIC 3810	Postcode does not match	
+131 Waverley Street, BUCASIA, Queensland, 4741	131 WAVERLEY ST, BUCASIA QLD 4750	Postcode does not match	
+14/8 manor st eight mile plains Queensland 4226	UNIT 10 8 MANOR ST, EIGHT MILE PLAINS QLD 4113	Postcode does not match	
+141 Walker Street, North Sydney NSW 2860	141 WALKER ST, NORTH SYDNEY NSW 2060	Postcode does not match	
+143 Birchmans Grove Wamboin, New South Wales, 2621	143 BIRCHMANS GR, WAMBOIN NSW 2620	Postcode does not match	
+14A Alfred Street, Woolwich NSW 2210	14A ALFRED ST, WOOLWICH NSW 2110	Postcode does not match	
+15 Deague Court, North Perth, Western Australia, 6066	15 DEAGUE CT, NORTH PERTH WA 6006	Postcode does not match	
+15 Lorna Avenue, Blakehurst NSW 2220	15 LORNA AV, BLAKEHURST NSW 2221	Postcode does not match	
+161-163 Mona vale Road, St Ives, NSW 2025	UNIT 3 161-163 MONA VALE RD, ST IVES NSW 2075	Postcode does not match	
+17 GOODSIR ST ROZELLE NSW 2089	17 GOODSIR ST, ROZELLE NSW 2039	Postcode does not match	
+17 Jennifer Crescent, Thirroul NSW 2125	17 JENNIFER CR, THIRROUL NSW 2515	Postcode does not match	
+176 Fowler Road Illawong, New South Wales 2206	176 FOWLER RD, ILLAWONG NSW 2234	Postcode does not match	
+18 Forrester Street Kingsgrove NSW 2209	18 FORRESTER ST, KINGSGROVE NSW 2208	Postcode does not match	
+18 Larra Street Yennora NSW 2061	18 LARRA ST, YENNORA NSW 2161	Postcode does not match	
+18 Moriarty Road, Chatswood NSW 2060	18 MORIARTY RD, CHATSWOOD NSW 2067	Postcode does not match	
+184 Nelson Street Annandale NSW 2039	184 NELSON ST, ANNANDALE NSW 2038	Postcode does not match	
+19 Boonara Avenue, Bondi NSW 2056	19 BOONARA AV, BONDI NSW 2026	Postcode does not match	
+195 Great Western Highway, Wentworth Falls NSW 2789	195 GREAT WESTERN HWY, WENTWORTH FALLS NSW 2782	Postcode does not match	
+199 Pyrmont Street, Pyrmont NSW 2099	CASINO GARDENS UNIT 108 199-223 PYRMONT ST, PYRMONT NSW 2009	Postcode does not match	
+2 Cowslip Street, Violet Town VIC 3447	2 COWSLIP ST, VIOLET TOWN VIC 3669	Postcode does not match	
+2 Russell Street, Granville NSW 2124	2 RUSSELL ST, GRANVILLE NSW 2142	Postcode does not match	
+2-20 Carnarvon Street, Silverwater NSW 2125	2 CARNARVON ST, SILVERWATER NSW 2128	Postcode does not match	
+2/24 Carnarvon Street, Silverwater NSW 2125	UNIT 4 24 CARNARVON ST, SILVERWATER NSW 2128	Postcode does not match	
+2/47 Blenheim Street, Balaclava, Victoria, 3138	UNIT 1 47 BLENHEIM ST, BALACLAVA VIC 3183	Postcode does not match	
+2/87 Broome Street Maroubra NSW 2015	UNIT 5 87 BROOME ST, MAROUBRA NSW 2035	Postcode does not match	
+201 Sussex Street Sydney New South Wales 1171	(RETAIL) SHOP 1 201 SUSSEX ST, SYDNEY NSW 2000	Postcode does not match	
+20709/33 Manning Street, South Brisbane QLD 4104	33 MANNING ST, SOUTH BRISBANE QLD 4101	Postcode does not match	
+217 Commercial Road, Vineyard, New South Wales 2767	A-VINA VAN VILLAGE UNIT 14 217 COMMERCIAL RD, VINEYARD NSW 2765	Postcode does not match	
+22 Austin Avenue, Croydon NSW 3136	22 AUSTIN AV, CROYDON NSW 2132	Postcode does not match	
+22 Geddes Street Balcatta WA 6025	22 GEDDES ST, BALCATTA WA 6021	Postcode does not match	
+227 Flemington Road, Franklin, ACT, 2013	227 FLEMINGTON RD, FRANKLIN ACT 2913	Postcode does not match	
+23 Surfside Avenue, Clovelly, NSW 2008	23 SURFSIDE AV, CLOVELLY NSW 2031	Postcode does not match	
+235-257 Meurants Lane, Glenwood, NSW 2153	235 MEURANTS LANE, GLENWOOD NSW 2768	Postcode does not match	
+26 Balook Drive, BERESFIELD NSW 2232	26 BALOOK DR, BERESFIELD NSW 2322	Postcode does not match	
+26 Elizabeth Drive, Noraville NSW 2076	26 ELIZABETH DR, NORAVILLE NSW 2263	Postcode does not match	
+26 Farnell St, Hunters Hill NSW 2010	26 FARNELL ST, HUNTERS HILL NSW 2110	Postcode does not match	
+26 Karalta Road, Erina, NSW, 2251	26 KARALTA RD, ERINA NSW 2250	Postcode does not match	
+26/20 Candle Heath Road, Perisher Valley NSW 2642	THE STABLES 20 CANDLE HEATH RD, PERISHER VALLEY NSW 2624	Postcode does not match	
+29 Boronia Road, Glenorie NSW 2147	29 BORONIA RD, GLENORIE NSW 2157	Postcode does not match	
+2A Allen Avenue, Bilgola Beach, NSW 2017	2 ALLEN AV, BILGOLA BEACH NSW 2107	Postcode does not match	
+3 Applebee Street, St Peters, NSW 2042	3 APPLEBEE ST, ST PETERS NSW 2044	Postcode does not match	
+3 Berry Court, Keysborough, Victoria, 3178	3 BERRY CT, KEYSBOROUGH VIC 3173	Postcode does not match	
+3 Wanganella Street Balgowlah NSW 2003	UNIT 1 3 WANGANELLA ST, BALGOWLAH NSW 2093	Postcode does not match	
+30 Mabel Street Atherton QLD 4683	30 MABEL ST, ATHERTON QLD 4883	Postcode does not match	
+306 Bondi Rd Bondi NSW 2136	306 BONDI RD, BONDI NSW 2026	Postcode does not match	
+306/48 Blenheim Street, Balaclava VIC 3185	UNIT G2 48 BLENHEIM ST, BALACLAVA VIC 3183	Postcode does not match	
+31 Balanada Avenue, Chipping Norton NSW 2017	31 BALANADA AV, CHIPPING NORTON NSW 2170	Postcode does not match	
+310 Norton Street, Leichhardt NSW 2049	310 NORTON ST, LEICHHARDT NSW 2040	Postcode does not match	
+32 Walsh Street, West Melbourne, Victoria 3000	22-36 WALSH ST, WEST MELBOURNE VIC 3003	Postcode does not match	
+33 Booth Street, Annandale NSW 2033	33 BOOTH ST, ANNANDALE NSW 2038	Postcode does not match	
+34 Creek Street Riverstone, NSW 2764	34 CREEK ST, RIVERSTONE NSW 2765	Postcode does not match	
+34 Stanmore Road Enmore NSW 2024	UNIT 8 34 STANMORE RD, ENMORE NSW 2042	Postcode does not match	
+3489 Lina Glen Road, Jundah, Queensland 4376	LINA GLEN STATION 3489 LINA GLEN RD, JUNDAH QLD 4736	Postcode does not match	
+35-39 Ocean Street, Kogarah, NSW 2206	35 OCEAN ST, KOGARAH NSW 2217	Postcode does not match	
+36 Normanby Street, Brighton, Victoria 3187	36 NORMANBY ST, BRIGHTON VIC 3186	Postcode does not match	
+36-38 Waterview Street, Carlton, NSW 2118	36-38 WATERVIEW ST, CARLTON NSW 2218	Postcode does not match	
+368 Wilson Street, Darlington, New South Wales 2088	368 WILSON ST, DARLINGTON NSW 2008	Postcode does not match	
+39 Llewellyn Street, Marrickville NSW 2041	39 LLEWELLYN ST, MARRICKVILLE NSW 2204	Postcode does not match	
+39-44 Jack Williams Drive, Penrith NSW 2570	39-53 JACK WILLIAMS DR, PENRITH NSW 2750	Postcode does not match	
+3990 Pacific Highway, Loganholme, Queensland, 4219	THE GROVES LOGANHOLME - 3990 3990-3992 PACIFIC HWY, LOGANHOLME QLD 4129	Postcode does not match	
+4 Shirley Rd Roseville NSW 2085	4 SHIRLEY RD, ROSEVILLE NSW 2069	Postcode does not match	
+4/50 Fitzroy Street, St Kilda VIC 3782	UNIT 10 50 FITZROY ST, ST KILDA VIC 3182	Postcode does not match	
+40 Cowper Street, Granville NSW 2141	40 COWPER ST, GRANVILLE NSW 2142	Postcode does not match	
+40 Pavesi Street, Smithfield, NSW, 2161	40 PAVESI ST, SMITHFIELD NSW 2164	Postcode does not match	
+41 Heritage Way, Glen Alpine NSW 2250	41 HERITAGE WAY, GLEN ALPINE NSW 2560	Postcode does not match	
+42 Eucumbene Crescent Joondalup WA 6067	42 EUCUMBENE CR, JOONDALUP WA 6027	Postcode does not match	
+47 Hindmarsh Road, Nunderi, NSW 2482	47 HINDMARSH RD, NUNDERI NSW 2484	Postcode does not match	
+49 Brunderee Road, Flinders NSW 2541	49 BRUNDEREE RD, FLINDERS NSW 2529	Postcode does not match	
+49 Woolwich Road, Hunters Hill NSW 2210	49 WOOLWICH RD, HUNTERS HILL NSW 2110	Postcode does not match	
+5 Knotwood Avenue, Macquarie Fields, New South Wales 2546	5 KNOTWOOD AV, MACQUARIE FIELDS NSW 2564	Postcode does not match	
+50 Phillip Street Sydney NSW 2500	50 PHILLIP ST, SYDNEY NSW 2000	Postcode does not match	
+50 Rosedale Road, Gordon NSW 2070	50 ROSEDALE RD, GORDON NSW 2072	Postcode does not match	
+501 Swanston Street Melbourne VIC 3001	501 SWANSTON ST, MELBOURNE VIC 3000	Postcode does not match	
+51-55 Homebush Road Strathfield NSW 2156	STRATHFIELD HOME FOR THE AGED 51-55 HOMEBUSH RD, STRATHFIELD NSW 2135	Postcode does not match	
+53B Webb Street, Croydon NSW 2134	UNIT 4 53 WEBB ST, CROYDON NSW 2132	Postcode does not match	
+575 Staughton Vale Road, Staughton Vale VIC 3221	575 STAUGHTON VALE RD, STAUGHTON VALE VIC 3340	Postcode does not match	
+6 FAY STREET, NORTH CURL CURL, NSW, 2066	6 FAY ST, NORTH CURL CURL NSW 2099	Postcode does not match	
+6 Fay Street, North Curl Curl NSW 2006	6 FAY ST, NORTH CURL CURL NSW 2099	Postcode does not match	
+6 Victoria Avenue, Castle Hill NSW 2151	6 VICTORIA AV, CASTLE HILL NSW 2154	Postcode does not match	
+6/1 Maxim Street, West Ryde NSW 2144	UNIT 2 6 MAXIM ST, WEST RYDE NSW 2114	Postcode does not match	
+61 Cale Street, Como WA 6053	UNIT 2 61 CALE ST, COMO WA 6152	Postcode does not match	
+618 Canterbury Road Belmore NSW 2152	ST GEORGE HOTEL 618 CANTERBURY RD, BELMORE NSW 2192	Postcode does not match	
+62 MacMillan Avenue, Mawson Lakes, SA, 5096	62 MACMILLAN AV, MAWSON LAKES SA 5095	Postcode does not match	
+621 Canterbury Road Belmore NSW 2193	621 CANTERBURY RD, BELMORE NSW 2192	Postcode does not match	
+69 Meurants Lane GLENWOOD NSW 2766	69 MEURANTS LANE, GLENWOOD NSW 2768	Postcode does not match	
+70-74 Kent Road, Orchard Hills NSW 2746	70-74 KENT RD, ORCHARD HILLS NSW 2748	Postcode does not match	
+714/2 Waterview Drive, Lane Cove, NSW 2026	UNIT 409 2 WATERVIEW DR, LANE COVE NSW 2066	Postcode does not match	
+79 O'Donnell Street, North Bondi NSW 2020	UNIT 1 79 O'DONNELL ST, NORTH BONDI NSW 2026	Postcode does not match	
+8 Anglo Road, Campsie NSW 2192	SHOP 1 2-16 ANGLO RD, CAMPSIE NSW 2194	Postcode does not match	
+8 Buchanan Street, Ballina NSW 2795	8 BUCHANAN ST, BALLINA NSW 2478	Postcode does not match	
+81-95 Anzac Parade, Kensington NSW 2035	81-85 ANZAC PDE, KENSINGTON NSW 2033	Postcode does not match	
+82-86 Eastern Valley Way, Willoughby NSW 2069	82 EASTERN VALLEY WAY, WILLOUGHBY NSW 2068	Postcode does not match	
+88 Elmes Road, Rocklea, Queensland, 4016	88 ELMES RD, ROCKLEA QLD 4106	Postcode does not match	
+9 Helen Street South Golden Beach NSW 2438	9 HELEN ST, SOUTH GOLDEN BEACH NSW 2483	Postcode does not match	
+9 McDonald Street Potts Point New South Wales 2001	9 MCDONALD ST, POTTS POINT NSW 2011	Postcode does not match	
+9/19 Doughboy Parade, Hemmant, Queensland 4178	19 DOUGHBOY PDE, HEMMANT QLD 4174	Postcode does not match	
+90 George Street, Parramatta, NSW 2120	DELOITTES 90 GEORGE ST, PARRAMATTA NSW 2150	Postcode does not match	
+97 Glenayr Avenue Bondi Beach, NSW 2106	97 GLENAYR AV, BONDI BEACH NSW 2026	Postcode does not match	
+9A Crescent Street, Hunters Hill, NSW 2100	9A CRESCENT ST, HUNTERS HILL NSW 2110	Postcode does not match	
+Level 1, 434 Chapel Road, Bankstown NSW 2002	UNIT 1 434 CHAPEL RD, BANKSTOWN NSW 2200	Postcode does not match	
+Level 1, 552 Princes Highway, Rockdale NSW 2217	552 PRINCES HWY, ROCKDALE NSW 2216	Postcode does not match	
+Level 11 80 Mount Street North Sydney NSW 2059	80 MOUNT ST, NORTH SYDNEY NSW 2060	Postcode does not match	
+Level 16, 157 Liverpool Street, Sydney NSW 1041	THE HYDE 157-167 LIVERPOOL ST, SYDNEY NSW 2000	Postcode does not match	
+Level 29, 360 Collins Street, Melbourne, Victoria, 8007	360 COLLINS ST, MELBOURNE VIC 3000	Postcode does not match	
+Level 44, 1 Macquarie Place, Sydney, NSW, 2001	GATEWAY PLAZA 1 MACQUARIE PL, SYDNEY NSW 2000	Postcode does not match	
+Level12 1 Elizabeth Plaza North Sydney NSW 2050	1 ELIZABETH PLZA, NORTH SYDNEY NSW 2060	Postcode does not match	
+Lot 17 Creek Street Riverstone, NSW 2764	17 CREEK ST, RIVERSTONE NSW 2765	Postcode does not match	
+Lot 2506 Bundaleer Street, Belrose NSW 2095	LOT 2506 BUNDALEER ST, BELROSE NSW 2085	Postcode does not match	
+level 1, 183-193 Oxford St, Bondi Junction, NSW 2002	183 OXFORD ST, BONDI JUNCTION NSW 2022	Postcode does not match	
+level 15, 31 Queen Street, Melbourne, Victoria, 3001	31 QUEEN ST, MELBOURNE VIC 3000	Postcode does not match	
+253 Lagoon Street, Deniliquin VIC 3825	253 LAGOON ST, DENILIQUIN NSW 2710	Postcode does not match; State does not match	
+1 Oxford Street, Darlinghurst, NSW, 2000	OXFORD STREET DARLINGHURST NSW 2010	Postcode does not match; Street number does not exist on this street	
+114 Hugh Street, Garbutt, Queensland, 4815	HUGH STREET GARBUTT QLD 4814	Postcode does not match; Street number does not exist on this street	
+164 Parramatta Road, Camperdown, NSW 2520	PARRAMATTA ROAD CAMPERDOWN NSW 2050	Postcode does not match; Street number does not exist on this street	
+206 Church Street, Carrington NSW 2234	CHURCH STREET CARRINGTON NSW 2324	Postcode does not match; Street number does not exist on this street	
+228-230 Anzac Parade, Kensington NSW 2013	ANZAC PARADE KENSINGTON NSW 2033	Postcode does not match; Street number does not exist on this street	
+228-230 Anzac Parade, Kensington NSW 2031	ANZAC PARADE KENSINGTON NSW 2033	Postcode does not match; Street number does not exist on this street	
+235 Powderworks Road, Elanora Heights NSW 2012	POWDERWORKS ROAD ELANORA HEIGHTS NSW 2101	Postcode does not match; Street number does not exist on this street	
+37 Shelley Street Sydney NSW 2001	SHELLEY STREET SYDNEY NSW 2000	Postcode does not match; Street number does not exist on this street	
+48 Martin Place, Sydney, New South Wales 1155	48 MARTIN PL, SYDNEY NSW 2000	Postcode does not match	round2_reject_review; reason_by_harvest_rule
+59-61 Goulburn Street SYDNEY NSW 2057	59-61 GOULBURN ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+67 Strathhallen Avenue NORTHBRIDGE NSW 2083	STRATHALLEN AVENUE NORTHBRIDGE NSW 2063	Postcode does not match; Street number does not exist on this street	
+Level 1, 301 Catherine Street, Leichhardt, NSW, 2061	301 CATHERINE ST, LILYFIELD NSW 2040	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+10/2 Rosemont Street PUNCHBOWL NSW 2196	UNIT 10 2 ROSEMONT ST NORTH, PUNCHBOWL NSW 2196	Street direction suffix wrong (e.g. North missing)	
+11/2 Ocean St, Bondi NSW 2026	UNIT 10 2 OCEAN ST NORTH, BONDI NSW 2026	Street direction suffix wrong (e.g. North missing)	
+11/258 Cabramatta Road, Cabramatta, New South Wales 2166	UNIT 10 258 CABRAMATTA RD WEST, CABRAMATTA NSW 2166	Street direction suffix wrong (e.g. North missing)	
+19B Welford Circuit in North Kellyville, NSW 2155	19 WELFORD CCT, NORTH KELLYVILLE NSW 2155	Street direction suffix wrong (e.g. North missing)	
+2 Queens Parade West, Newport NSW 2106	2 QUEENS PDE, NEWPORT NSW 2106	Street direction suffix wrong (e.g. North missing)	
+23 Ascot Street ALTONA MEADOWS VIC 3028	23 ASCOT ST SOUTH, ALTONA MEADOWS VIC 3028	Street direction suffix wrong (e.g. North missing)	
+270 Cabramatta Rd Cabramatta NSW 2166	270 CABRAMATTA RD WEST, CABRAMATTA NSW 2166	Street direction suffix wrong (e.g. North missing)	
+450 Little Bourke Street, Melbourne, Victoria, 3000	SUPREME COURT EXTENSION 442-460 LITTLE BOURKE ST, MELBOURNE VIC 3000	Street direction suffix wrong (e.g. North missing)	
+501/40-44 Ocean Street, Bondi, New South Wales 2026	OCEANA 40-44 OCEAN ST NORTH, BONDI NSW 2026	Street direction suffix wrong (e.g. North missing)	
+51 Fourth Avenue Maylands WA 6051	51 FOURTH AV EAST, MAYLANDS WA 6051	Street direction suffix wrong (e.g. North missing)	
+60 Station Street, Parramatta NSW 2150	60 STATION ST EAST, PARRAMATTA NSW 2150	Street direction suffix wrong (e.g. North missing)	
+9-11 Menangle Street, Picton, NSW 2571	9-11 MENANGLE ST WEST, PICTON NSW 2571	Street direction suffix wrong (e.g. North missing)	
+Lot 2 Cureton Avenue, Mildura, Victoria, 3500	2-6 CURETON AV, MILDURA VIC 3500	Street direction suffix wrong (e.g. North missing)	
+40 Church Street Nth Parramatta NSW 2151	40-58 CHURCH ST, PARRAMATTA NSW 2150	Street direction suffix wrong (e.g. North missing); Postcode does not match	
+410 Church Street Nth Parramatta NSW 2151	UNIT 42 410-442 CHURCH ST, PARRAMATTA NSW 2150	Street direction suffix wrong (e.g. North missing); Postcode does not match	
+453 Collins Street West Melbourne VIC 8007	COLLINS ARCH DEVELOPMENT 433-455 COLLINS ST, MELBOURNE VIC 3000	Street direction suffix wrong (e.g. North missing); Postcode does not match	
+5 Frenchs Forest Road, Frenchs Forest, NSW 2006	5 FRENCHS FOREST RD EAST, FRENCHS FOREST NSW 2086	Street direction suffix wrong (e.g. North missing); Postcode does not match	
+10 Mt D'Aguilar Crescent ALGESTER QLD 4115	10 MOUNT D'AGUILAR CR, ALGESTER QLD 4115	Street name abbreviated (e.g. St for Saint)	
+80A Mt Keira Road, West Wollongong, NSW, 2500	UNIT 2 80A MOUNT KEIRA RD, WEST WOLLONGONG NSW 2500	Street name abbreviated (e.g. St for Saint)	
+470 St Kilda Road, Melbourne, VIC, 3000	470 ST KILDA RD, MELBOURNE VIC 3004	Street name abbreviated (e.g. St for Saint); Postcode does not match	
+213 St Paul's Terrace BRISBANE QLD 4000	213 ST PAULS TCE, FORTITUDE VALLEY QLD 4006	Street name abbreviated (e.g. St for Saint); Wrong suburb (a different real locality); Postcode does not match	
+111 St Georges Terrace Sydney NSW 2000	ST GEORGES TERRACE DUBBO NSW 2830	Street name abbreviated (e.g. St for Saint); Wrong suburb (a different real locality); Postcode does not match; Street number does not exist on this street	
+29 Mt Vincent Road, Mt Vincent NSW 2323	29 MOUNT VINCENT RD, MOUNT VINCENT NSW 2323	Street name abbreviated (e.g. St for Saint); Suburb abbreviated (e.g. Mt for Mount)	round2_reject_review; reason_by_harvest_rule
+133 Pendle Hill Road, Pendle Hill, NSW, 2145	133 PENDLE WAY, PENDLE HILL NSW 2145	Street name missing or gaining a word; Street type wrong (e.g. Road vs Avenue)	
+102 Poverty Hill Road Menindee NSW 2879	102 POVERTY HILL LANE, MENINDEE NSW 2879	Street name missing or gaining a word; Suburb abbreviated (e.g. Mt for Mount); Street type wrong (e.g. Road vs Avenue)	
+2 Gowan Bay Avenue Mt Ousley NSW 2519	2 GOWAN BRAE AV, MOUNT OUSLEY NSW 2519	Street name missing or gaining a word; Suburb abbreviated (e.g. Mt for Mount); Street type wrong (e.g. Road vs Avenue)	
+2 Gowan Brae Avenue Mt Ousley NSW 2519	2 GOWAN BRAE AV, MOUNT OUSLEY NSW 2519	Street name missing or gaining a word; Suburb abbreviated (e.g. Mt for Mount); Street type wrong (e.g. Road vs Avenue)	
+13 Currans Hill Drive Currans Hill NSW 2756	13 CURRANS HILL DR, CURRANS HILL NSW 2567	Street name missing or gaining a word; Suburb abbreviated (e.g. Mt for Mount); Street type wrong (e.g. Road vs Avenue); Postcode does not match	
+325 Macleay Valley Way KEMPSEY NSW 2440	KEMPSEY TOURIST VILLAGE 325 MACLEAY VALLEY WAY, SOUTH KEMPSEY NSW 2440	Street name missing or gaining a word; Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street type wrong (e.g. Road vs Avenue); Street direction suffix wrong (e.g. North missing)	
+134 Bellbrook Road Armidale NSW 2350	134 BELLBROOK EAST RD, DUMARESQ NSW 2350	Street name missing or gaining a word; Wrong suburb (a different real locality)	
+136 Bellbrook Road Armidale NSW 2350	ROSEWOOD 136 BELLBROOK EAST RD, DUMARESQ NSW 2350	Street name missing or gaining a word; Wrong suburb (a different real locality)	
+166 Georges River Road, NSW 2133	166 GEORGES RIVER RD, CROYDON PARK NSW 2133	Street name missing or gaining a word; Wrong suburb (a different real locality); Street type wrong (e.g. Road vs Avenue)	
+1 Armaroo Grove, BURNSIDE VIC 3023	1 AMAROO GR, BURNSIDE VIC 3023	Street name misspelt (1 character)	
+1/6 Forth Avenue, Campsie, NSW, 2194	6 FOURTH AV, CAMPSIE NSW 2194	Street name misspelt (1 character)	
+10 Acuatic Drive, FRENCHS FOREST NSW 2086	10 AQUATIC DR, FRENCHS FOREST NSW 2086	Street name misspelt (1 character)	
+10 Angus Street Meadowbank NSW 2114	10 ANGAS ST, MEADOWBANK NSW 2114	Street name misspelt (1 character)	
+100 Mallet Street Camperdown NSW 2050	64-106 MALLETT ST, CAMPERDOWN NSW 2050	Street name misspelt (1 character)	
+11 Altman Avenue, Cannonvale, Queensland 4802	WHISPER BAY 11 ALTMANN AV, CANNONVALE QLD 4802	Street name misspelt (1 character)	
+11 Nobrik Drive, Bella Vista NSW 2153	NORWEST PRIVATE HOSPITAL 11 NORBRIK DR, BELLA VISTA NSW 2153	Street name misspelt (1 character)	
+116 Kendall St COWRA NSW 2794	COUNCIL OFFICES 116 KENDAL ST, COWRA NSW 2794	Street name misspelt (1 character)	
+117 Caralta Road ERINA NSW 2250	117 KARALTA RD, ERINA NSW 2250	Street name misspelt (1 character)	
+11A Walter Street, Wahroonga NSW 2076	11A WATER ST, WAHROONGA NSW 2076	Street name misspelt (1 character)	
+12 Excell St Banksmeadow NSW 2019	12 EXELL ST, BANKSMEADOW NSW 2019	Street name misspelt (1 character)	
+128 Perceval Rd, Stanmore NSW 2048	128 PERCIVAL RD, STANMORE NSW 2048	Street name misspelt (1 character)	
+13/12 Minjungbai Drive, Tweed Heads South NSW 2486	13 MINJUNGBAL DR, TWEED HEADS SOUTH NSW 2486	Street name misspelt (1 character)	
+136 Landsdowne Road, Canley Vale NSW 2166	UNIT 1 136 LANSDOWNE RD, CANLEY VALE NSW 2166	Street name misspelt (1 character)	
+14 Francis Street Lidcombe NSW 2141	14 FRANCES ST, LIDCOMBE NSW 2141	Street name misspelt (1 character)	
+15B Cowdrow Avenue, Cammeray NSW 2062	15 COWDROY AV, CAMMERAY NSW 2062	Street name misspelt (1 character)	
+16 Gross St Parramatta NSW 2150	16 ROSS ST, PARRAMATTA NSW 2150	Street name misspelt (1 character)	
+16 Harnet Avenue, Marrickville NSW 2204	16 HARNETT AV, MARRICKVILLE NSW 2204	Street name misspelt (1 character)	
+18 Gross St Parramatta NSW 2150	SUITE 1 18 ROSS ST, PARRAMATTA NSW 2150	Street name misspelt (1 character)	
+18 MacIntosh Street, QUEANBEYAN NSW 2620	18 MCINTOSH ST, QUEANBEYAN NSW 2620	Street name misspelt (1 character)	
+18 May Street ESSENDON VIC 3040	18 MARY ST, ESSENDON VIC 3040	Street name misspelt (1 character)	
+19 Mandalong Rd, Mosman NSW 2088	19 MANDOLONG RD, MOSMAN NSW 2088	Street name misspelt (1 character)	
+198 Princess Highway, Kogarah Bay NSW 2217	198 PRINCES HWY, KOGARAH BAY NSW 2217	Street name misspelt (1 character)	
+2 Haberfieid Road, Haberfield NSW 2045	2 HABERFIELD RD, HABERFIELD NSW 2045	Street name misspelt (1 character)	
+2 Hutchison Walk, Zetland NSW 2017	CARSPACE 10 2 HUTCHINSON WALK, ZETLAND NSW 2017	Street name misspelt (1 character)	
+2 Yerribool Close Prestons NSW 2170	2 YERRINBOOL CL, PRESTONS NSW 2170	Street name misspelt (1 character)	
+2 lmperata Close Kemps Creek NSW 2178	2 IMPERATA CL, KEMPS CREEK NSW 2178	Street name misspelt (1 character)	
+2/61-65 Forrest Road, Hurstville NSW 2220	UNIT 2 61 FOREST RD, HURSTVILLE NSW 2220	Street name misspelt (1 character)	
+20 Paut Street, Auburn, New South Wales, 2144	20 PAUL ST, AUBURN NSW 2144	Street name misspelt (1 character)	
+20/22 Concord Place, Caboolture, Queensland, 4510	22 CONCORDE PL, CABOOLTURE QLD 4510	Street name misspelt (1 character)	
+200 Princess Highway, Kogarah Bay NSW 2217	200 PRINCES HWY, KOGARAH BAY NSW 2217	Street name misspelt (1 character)	
+22A Rickety Street, Mascot NSW 2020	22 RICKETTY ST, MASCOT NSW 2020	Street name misspelt (1 character)	
+232 Marrylands Rd, Merrylands, NSW 2160	232 MERRYLANDS RD, MERRYLANDS NSW 2160	Street name misspelt (1 character)	
+274 Edwards Street, Reservoir, Victoria 3073	274 EDWARDES ST, RESERVOIR VIC 3073	Street name misspelt (1 character)	
+28 Jeeraland Avenue, Newborough VIC 3825	28 JEERALANG AV, NEWBOROUGH VIC 3825	Street name misspelt (1 character)	
+28 Mout Street, Fremantle, WA 6160	28 MOUAT ST, FREMANTLE WA 6160	Street name misspelt (1 character)	
+29 Narrooma St Sunnybank QLD 4109	29 NAROOMA ST, SUNNYBANK QLD 4109	Street name misspelt (1 character)	
+2C Dumeresq Rd, Rose Bay NSW 2029	2C DUMARESQ RD, ROSE BAY NSW 2029	Street name misspelt (1 character)	
+3 Angus Street, Adelaide SA 5000	3 ANGAS ST, ADELAIDE SA 5000	Street name misspelt (1 character)	
+3 Caramar Close, Picton, New South Wales 2571	3 CARRAMAR CL, PICTON NSW 2571	Street name misspelt (1 character)	
+3 Mandina Road, West Gosford NSW 2250	UNIT 1 3 YANDINA RD, WEST GOSFORD NSW 2250	Street name misspelt (1 character)	
+31 Haslmere Crescent, Buttaba NSW 2283	31 HASLEMERE CR, BUTTABA NSW 2283	Street name misspelt (1 character)	
+4 Tornhill Place, Cherrybrook, NSW, 2126	4 CORNHILL PL, CHERRYBROOK NSW 2126	Street name misspelt (1 character)	
+414 Gardiners Road, Rosebery, NSW, 2018	UNIT 2 414-416 GARDENERS RD, ROSEBERY NSW 2018	Street name misspelt (1 character)	
+43 Florence Wilmot Drive, Nambucca Heads, New South Wales, 2448	43 FLORENCE WILMONT DR, NAMBUCCA HEADS NSW 2448	Street name misspelt (1 character)	
+43/42-48 Waverly Street, Bondi Junction NSW 2022	42 WAVERLEY ST, BONDI JUNCTION NSW 2022	Street name misspelt (1 character)	
+477 Princess Highway, Rockdale, New South Wales, 2216	475-477 PRINCES HWY, ROCKDALE NSW 2216	Street name misspelt (1 character)	
+5 Maude Street Lidcombe NSW 2141	5 MAUD ST, LIDCOMBE NSW 2141	Street name misspelt (1 character)	
+5/57-59 Eigth Avenue, Campsie NSW 2194	57-59 EIGHTH AV, CAMPSIE NSW 2194	Street name misspelt (1 character)	
+51 Winarla Lane, Gungahlin ACT 2912	THE WATERFRONT 51 WINARLIA LANE, GUNGAHLIN ACT 2912	Street name misspelt (1 character)	
+52-54 Lackley Street, Summer Hill, NSW 2130	52-54 LACKEY ST, SUMMER HILL NSW 2130	Street name misspelt (1 character)	
+55 Pollack Avenue, Wyong, New South Wales, 2259	55 POLLOCK AV, WYONG NSW 2259	Street name misspelt (1 character)	
+604/40-48 Aitchison Street, St Leonards, New South Wales, 2065	40 ATCHISON ST, ST LEONARDS NSW 2065	Street name misspelt (1 character)	
+66 McGreggor Road GISBORNE Victoria 3437	66 MCGREGOR RD, GISBORNE VIC 3437	Street name misspelt (1 character)	
+7 Woodbyrne Crescent, Mornington, Victoria 3931	7 WOODBYNE CR, MORNINGTON VIC 3931	Street name misspelt (1 character)	
+76 Kampala Road, Bellevue Hill NSW 2023	76 KAMBALA RD, BELLEVUE HILL NSW 2023	Street name misspelt (1 character)	
+9 McCowan Road INGLESIDE NSW 2101	9 MCCOWEN RD, INGLESIDE NSW 2101	Street name misspelt (1 character)	
+925-941 Canturbury Road, Lakemba, NSW 2195	925-941 CANTERBURY RD, LAKEMBA NSW 2195	Street name misspelt (1 character)	
+94 Mallet Street Camperdown NSW 2050	64-106 MALLETT ST, CAMPERDOWN NSW 2050	Street name misspelt (1 character)	
+Level 1, 88 Philip Street Parramatta NSW 2150	SUITE 1 88 PHILLIP ST, PARRAMATTA NSW 2150	Street name misspelt (1 character)	
+Level 15, 86-90 Goulbourn Street, Sydney NSW 2000	JOHN MADDISON TOWER 86-90 GOULBURN ST, SYDNEY NSW 2000	Street name misspelt (1 character)	
+Level 6, 530 Collis Street Melbourne VIC 3000	530 COLLINS ST, MELBOURNE VIC 3000	Street name misspelt (1 character)	
+Lot 36, 146 Paramatta Road Homebush NSW 2140	UNIT 10 146-152 PARRAMATTA RD, HOMEBUSH NSW 2140	Street name misspelt (1 character)	
+Unit 846/2C Defried Avenue, Zetland, NSW 2017	2 DEFRIES AV, ZETLAND NSW 2017	Street name misspelt (1 character)	
+124 Hassell Street, Wetherill Park, NSW 2042	UNIT 13 122-124 HASSALL ST, WETHERILL PARK NSW 2164	Street name misspelt (1 character); Postcode does not match	
+19 Bennet Ave, Five Dock NSW 2044	19 BENNETT AV, FIVE DOCK NSW 2046	Street name misspelt (1 character); Postcode does not match	
+191 – 195 Rynie Street, Geelong, Victoria 3218	191-195 RYRIE ST, GEELONG VIC 3220	Street name misspelt (1 character); Postcode does not match	
+3/23 Kennyon Street, Fairfield, NSW 2195	23 KENYON ST, FAIRFIELD NSW 2165	Street name misspelt (1 character); Postcode does not match	
+19 Wybaleena St Hunters Hill, NSW 2110	19 WYBALENA RD, HUNTERS HILL NSW 2110	Street name misspelt (1 character); Street type wrong (e.g. Road vs Avenue)	
+6 McQueen Street, Charnwood, ACT 2615	6 MACQUEEN PL, CHARNWOOD ACT 2615	Street name misspelt (1 character); Street type wrong (e.g. Road vs Avenue)	
+8 Seale Street Kotara Fair NSW 2289	8 SEARLE ST, KOTARA NSW 2289	Street name misspelt (1 character); Suburb is an unofficial or sub-locality name	
+516-520 Swanson Street Carlton South VIC 3053	516 SWANSTON ST, CARLTON VIC 3053	Street name misspelt (1 character); Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 1, 47 Bridge Street, Sydney NSW 2000	47 RIDGE ST, NORTH SYDNEY NSW 2060	Street name misspelt (1 character); Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+40 Thompson Street TWEED NEADS NSW 2485	40 THOMSON ST, TWEED HEADS NSW 2485	Street name misspelt (1 character); Suburb misspelt (1-2 characters)	
+105 Frenchs Forrest Road, frenchs Forrest, New South Wales, 2086	NORTHERN BEACHES HOSPITAL 105 FRENCHS FOREST RD WEST, FRENCHS FOREST NSW 2086	Street name misspelt (1 character); Suburb misspelt (1-2 characters); Street direction suffix wrong (e.g. North missing)	
+1 St Kinnard Street, Essendon, Victoria 3040	1 ST KINNORD ST, ABERFELDIE VIC 3040	Street name misspelt (1 character); Wrong suburb (a different real locality)	
+2 Figree Drive, Homebush Bay, NSW 2127	2 FIGTREE DR, SYDNEY OLYMPIC PARK NSW 2127	Street name misspelt (1 character); Wrong suburb (a different real locality)	
+526 Wimbourne Road Manilla NSW 2346	MYOORA 526 WIMBORNE RD, WIMBORNE NSW 2346	Street name misspelt (1 character); Wrong suburb (a different real locality)	
+11 Keiwarra Street, Kingsgrove NSW 2208	11 KIEWARRA ST, KINGSGROVE NSW 2208	Street name misspelt (2 characters)	
+13 Aspley Crescent, Dubbo NSW 2830	13 APSLEY CR, DUBBO NSW 2830	Street name misspelt (2 characters)	
+130 Airley Road Pullenvale Queensland 4069	130 AIRLIE RD, PULLENVALE QLD 4069	Street name misspelt (2 characters)	
+1430 Coober Bulga Road, Cassilis, NSW 2329	1430 COOBA BULGA RD, CASSILIS NSW 2329	Street name misspelt (2 characters)	
+15-17 Wailiam Street PERTH WA 6000	LEVEL 10 15-17 WILLIAM ST, PERTH WA 6000	Street name misspelt (2 characters)	
+17 A Gaiwood Place, Castle Hill NSW 2154	17 GAIWOOD PL, CASTLE HILL NSW 2154	Street name misspelt (2 characters)	
+185 Tyron Road, East Lindfield NSW 2070	185 TRYON RD, EAST LINDFIELD NSW 2070	Street name misspelt (2 characters)	
+2 Hunter Street, Enfield NSW 2136	2 HUNT ST, ENFIELD NSW 2136	Street name misspelt (2 characters)	
+4 Torn Hill Place, Cherrybrook, NSW, 2126	4 THORNHILL PL, CHERRYBROOK NSW 2126	Street name misspelt (2 characters)	
+44 Britannic Crescent, Paradise Point QLD 4216	44 BRITTANIC CR, PARADISE POINT QLD 4216	Street name misspelt (2 characters)	
+5 A GREEN ST BROOKVALE NSW 2100	5 GREEN ST, BROOKVALE NSW 2100	Street name misspelt (2 characters)	
+8/1 Kristina Road, Glen Waverley Victoria 3150	1 KIRSTINA RD, GLEN WAVERLEY VIC 3150	Street name misspelt (2 characters)	
+300 Gearga St Sydney NSW 2002	300 GEORGE ST, SYDNEY NSW 2000	Street name misspelt (2 characters); Postcode does not match	
+222 Whyralah Road, LISMORE, NSW, 2478	222 WYRALLAH RD, EAST LISMORE NSW 2480	Street name misspelt (2 characters); Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+4/10 Greves Close West Gosford NSW 2250	10 GRIEVE RD, WEST GOSFORD NSW 2250	Street name misspelt (2 characters); Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street type wrong (e.g. Road vs Avenue); Street direction suffix wrong (e.g. North missing)	
+46 Riversiside Grove, Denmancourt, SA 5075	46 RIVERSIDE GR, DERNANCOURT SA 5075	Street name misspelt (2 characters); Suburb misspelt (1-2 characters)	
+79 Kuringai Ave Turramurra NSW 2074	79 KU-RING-GAI AV, TURRAMURRA NSW 2074	Street name misspelt (3+ characters)	
+Level 1, 82 Canterbury Road, Petersham, NSW, 2049	82 NEW CANTERBURY RD, PETERSHAM NSW 2049	Street name misspelt (3+ characters); Wrong suburb (a different real locality)	
+132 Penguin Head Road, Culburra Beach NSW 2540	132 PENGUINS HEAD RD, CULBURRA BEACH NSW 2540	Street name plural or possessive S wrong	
+305 Williams Street Melbourne VIC 3000	305 WILLIAM ST, MELBOURNE VIC 3000	Street name plural or possessive S wrong	
+31 Phillip Street, Cabarita NSW 2137	31 PHILLIPS ST, CABARITA NSW 2137	Street name plural or possessive S wrong	
+44 Roberts Road Cherrybrook NSW 2126	44 ROBERT RD, CHERRYBROOK NSW 2126	Street name plural or possessive S wrong	
+86 St George Crescent, Drummoyne NSW 2047	86 ST GEORGES CR, DRUMMOYNE NSW 2047	Street name plural or possessive S wrong	
+9/54 Williams Street, Granville, New South Wales, 2142	UNIT 7 54 WILLIAM ST, GRANVILLE NSW 2142	Street name plural or possessive S wrong	
+94 Doug McWilliams Rd, Yenda NSW 2681	94 DOUG MCWILLIAM RD, YENDA NSW 2681	Street name plural or possessive S wrong	
+G01/1 Griffith Street, Blacktown, NSW 2148	UNIT 105 1 GRIFFITHS ST, BLACKTOWN NSW 2148	Street name plural or possessive S wrong	
+Level 14, 126 Phillips Street Sydney NSW 2000	126 PHILLIP ST, SYDNEY NSW 2000	Street name plural or possessive S wrong	
+Level 42, 80 Collin Street MELBOURNE VIC 3000	80 COLLINS ST, MELBOURNE VIC 3000	Street name plural or possessive S wrong	
+level 12, 440 Collin Street, Melbourne, Victoria, 3000	440 COLLINS ST, MELBOURNE VIC 3000	Street name plural or possessive S wrong	
+105 St George Parade Allawah NSW 2220	105 ST GEORGES PDE, ALLAWAH NSW 2218	Street name plural or possessive S wrong; Postcode does not match	
+30 Powers Street, St Marys NSW 1790	30-32 POWER ST, ST MARYS NSW 2760	Street name plural or possessive S wrong; Postcode does not match	
+44 Roberts Road Cherrybrook NSW 2136	44 ROBERT RD, CHERRYBROOK NSW 2126	Street name plural or possessive S wrong; Postcode does not match	
+27 Murray's Flat, Goulburn NSW 2580	27 MURRAY ST, GOULBURN NSW 2580	Street name plural or possessive S wrong; Street type wrong (e.g. Road vs Avenue)	
+29 Brians Street, Merrylands NSW 2160	29 BRIAN ST, MERRYLANDS WEST NSW 2160	Street name plural or possessive S wrong; Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+26 Lees Street Sydney NSW 2000	26 LEE ST, HAYMARKET NSW 2000	Street name plural or possessive S wrong; Wrong suburb (a different real locality)	
+13 Mc Millan Street TRARALGON VIC 3844	13 MCMILLAN ST, TRARALGON VIC 3844	Street name spacing or apostrophe wrong	
+159 Narrowneck Rd, Katoomba NSW 2780	157-159 NARROW NECK RD, KATOOMBA NSW 2780	Street name spacing or apostrophe wrong	
+189 St George's Terrace PERTH WA 6000	189 ST GEORGES TCE, PERTH WA 6000	Street name spacing or apostrophe wrong	
+216 Glenhuntly Road, Elsternwick, Victoria 3185	216 GLEN HUNTLY RD, ELSTERNWICK VIC 3185	Street name spacing or apostrophe wrong	
+26 St George's Terrace, Perth, Western Australia 6000	UNIT 3 26 ST GEORGES TCE, PERTH WA 6000	Street name spacing or apostrophe wrong	
+30 Mc Naughtons Lane Irvington NSW 2470	30 MCNAUGHTONS LANE, IRVINGTON NSW 2470	Street name spacing or apostrophe wrong	
+34 Saltwater Drive WILLIAMSTOWN VIC 3016	34 SALT WATER DR, WILLIAMSTOWN VIC 3016	Street name spacing or apostrophe wrong	
+52 Brow Top Road, NARRE WARREN VIC 3805	52 BROWTOP RD, NARRE WARREN VIC 3805	Street name spacing or apostrophe wrong	
+53 Ro senthal ST, Doonside, NSW, 2767	53 ROSENTHAL ST, DOONSIDE NSW 2767	Street name spacing or apostrophe wrong	
+65A O'Reilly Road, Tarneit VIC 3029	65 OREILLY RD, TARNEIT VIC 3029	Street name spacing or apostrophe wrong	
+65B O'Reilly Road, Tarneit VIC 3029	65 OREILLY RD, TARNEIT VIC 3029	Street name spacing or apostrophe wrong	
+78 Saltwater Drive WILLIAMSTOWN VIC 3016	78 SALT WATER DR, WILLIAMSTOWN VIC 3016	Street name spacing or apostrophe wrong	
+81 St George's Terrace PERTH, Western Australia 6000	81 ST GEORGES TCE, PERTH WA 6000	Street name spacing or apostrophe wrong	
+89 St George's Terrace PERTH WA 6000	SHOP 1 89 ST GEORGES TCE, PERTH WA 6000	Street name spacing or apostrophe wrong	
+9 Beaconhills Crescent, CRAIGIEBURN VIC 3064	9 BEACON HILLS CR, CRAIGIEBURN VIC 3064	Street name spacing or apostrophe wrong	
+House 68 St George's Terrace PERTH WESTERN AUSTRALIA 6000	68 ST GEORGES TCE, PERTH WA 6000	Street name spacing or apostrophe wrong	
+Level 11, 485 Latrobe Street, Melbourne VIC 3000	NORTH TOWER 485 LA TROBE ST, MELBOURNE VIC 3000	Street name spacing or apostrophe wrong	
+Level 17, 140 St George's Terrace, Perth WA 6000	140 ST GEORGES TCE, PERTH WA 6000	Street name spacing or apostrophe wrong	
+Level 40, 108 St George's Terrace, Perth, Western Australia 6000	108 ST GEORGES TCE, PERTH WA 6000	Street name spacing or apostrophe wrong	
+Level 8, 99 St George's Terrace, Perth WA 6000	LEVEL 10 99 ST GEORGES TCE, PERTH WA 6000	Street name spacing or apostrophe wrong	
+111 Greenhills Road, MARULAN SOUTH NSW 2579	GRAZING LAND 111 GREEN HILLS RD, MARULAN NSW 2579	Street name spacing or apostrophe wrong; Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+3/1-7 Lyon Park Rd, North Ryde NSW 2113	1 LYONPARK RD, MACQUARIE PARK NSW 2113	Street name spacing or apostrophe wrong; Wrong suburb (a different real locality)	
+3498 Gatton-Clifton Road, Greenmount, Queensland, 4359	3498 GATTON - CLIFTON RD, WEST HALDON QLD 4359	Street name spacing or apostrophe wrong; Wrong suburb (a different real locality)	
+12 Riverview Street, Earlwood NSW 2206	12 RIVER ST, EARLWOOD NSW 2206	Street name substantially different	
+15 Everleigh Road, Chester Hill, NSW, 2162	15 EVERLEY RD, CHESTER HILL NSW 2162	Street name substantially different	
+3/6 Mard Street Granville, NSW, 2142	UNIT 4 6 MAUD ST, GRANVILLE NSW 2142	Street name substantially different	
+44 Dickson Street GOULBURN NSW 2580	44 DIXON ST, GOULBURN NSW 2580	Street name substantially different	
+2/125 Park Road Dundas NSW 2117	BORONIA GARDENS UNIT 14 125 PARK RD, RYDALMERE NSW 2116	Street name substantially different; Wrong suburb (a different real locality)	
+Shop 1 Morris Arcade Bowra Street Urunga NSW 2455	1 MORGO ST, URUNGA NSW 2455	Street name substantially different; Wrong suburb (a different real locality); Street type wrong (e.g. Road vs Avenue)	
+1 Ordnance Street Newcastle NSW 2300	ORDNANCE STREET NEWCASTLE NSW 2300	Street number does not exist on this street	
+100 Clarence Beach Road, Henderson WA 6166	CLARENCE BEACH ROAD HENDERSON WA 6166	Street number does not exist on this street	
+100 Melbourne Street, South Brisbane, Queensland 4101	MELBOURNE STREET SOUTH BRISBANE QLD 4101	Street number does not exist on this street	
+1012 Alfred St, Westmead, NSW 2145	ALFRED STREET WESTMEAD NSW 2145	Street number does not exist on this street	
+107 Sparke Street, Hexham NSW 2322	SPARKE STREET HEXHAM NSW 2322	Street number does not exist on this street	
+119-13 Ashted Road, Box Hill, Victoria 3128	ASHTED ROAD BOX HILL VIC 3128	Street number does not exist on this street	
+122 Windsor Road, Kellyville NSW 2155	WINDSOR ROAD KELLYVILLE NSW 2155	Street number does not exist on this street	
+1226 Federal Highway Service Road, Sutton, New South Wales 2620	FEDERAL HIGHWAY SERVICE ROAD SUTTON NSW 2620	Street number does not exist on this street	
+124 Bayswater Road, Lindfield NSW 2070	BAYSWATER ROAD LINDFIELD NSW 2070	Street number does not exist on this street	
+13 Anzac Parade, Matraville, NSW 2036	ANZAC PARADE MATRAVILLE NSW 2036	Street number does not exist on this street	
+1302 Snowy Mountains Highway Tumut NSW 2720	1302 SNOWY MOUNTAINS HWY, GADARA NSW 2720	Wrong suburb (a different real locality)	round2_reject_review; reason_by_harvest_rule
+1323 Bourke Road, Kew, Victoria, 3101	BURKE ROAD KEW VIC 3101	Street number does not exist on this street	
+14 Alfred Elms Road, Trentham Cliffs, New South Wales, 2738	ALFRED ELMS ROAD TRENTHAM CLIFFS NSW 2738	Street number does not exist on this street	
+1454 Ravensdale Road YARRAMALONG NSW 2259	RAVENSDALE ROAD YARRAMALONG NSW 2259	Street number does not exist on this street	
+147 Seventh Avenue, Eden Park, VIC, 3757	SEVENTH AVENUE EDEN PARK VIC 3757	Street number does not exist on this street	
+154 Phillip Street SYDNEY NSW 2000	PHILLIP STREET SYDNEY NSW 2000	Street number does not exist on this street	
+1585 Pittwater Road, Church Point NSW 2105	PITTWATER ROAD CHURCH POINT NSW 2105	Street number does not exist on this street	
+1586A Wyrallah Road, Tucki Tucki NSW 2480	WYRALLAH ROAD TUCKI TUCKI NSW 2480	Street number does not exist on this street	
+18/232 Hector Street BASS HILL NSW 2197	232 HECTOR ST, CHESTER HILL NSW 2162	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+19 Murrumba Place EAST KILLARA NSW 2071	MURRUMBA PLACE EAST KILLARA NSW 2071	Street number does not exist on this street	
+197 Little Cowra Road, Yelta, Victoria, 3505	LITTLE COWRA ROAD YELTA VIC 3505	Street number does not exist on this street	
+2 Coal Pier Road, Banksmeadow NSW 2019	COAL PIER ROAD BANKSMEADOW NSW 2019	Street number does not exist on this street	
+2 Dulguigan Road, DULGUIGAN, NSW, 2484	DULGUIGAN ROAD DULGUIGAN NSW 2484	Street number does not exist on this street	
+2 Ellen Street Randwick NSW 2031	ELLEN STREET RANDWICK NSW 2031	Street number does not exist on this street	
+200 West Street CARLTON NSW 2218	WEST STREET CARLTON NSW 2218	Street number does not exist on this street	
+202 West Street CARLTON NSW 2218	WEST STREET CARLTON NSW 2218	Street number does not exist on this street	
+22-32 Darwin Avenue, Little Bay NSW 2036	DARWIN AVENUE LITTLE BAY NSW 2036	Street number does not exist on this street	
+2212 Springs Road, KULNURA NSW 2250	SPRINGS ROAD KULNURA NSW 2250	Street number does not exist on this street	
+224 Manns Road, West Gosford NSW 2250	MANNS ROAD WEST GOSFORD NSW 2250	Street number does not exist on this street	
+23 Wentworth St Auburn NSW 2144	WENTWORTH STREET AUBURN NSW 2144	Street number does not exist on this street	
+2357 Cargo Road, Lidster NSW 2800	CARGO ROAD LIDSTER NSW 2800	Street number does not exist on this street	
+256 Castlereagh Street, Sydney NSW 2000	CASTLEREAGH STREET SYDNEY NSW 2000	Street number does not exist on this street	
+266 Carr Place Leederville WA 6007	CARR PLACE LEEDERVILLE WA 6007	Street number does not exist on this street	
+293 Nicholson Road, Forrestdale Western Australia 6112	NICHOLSON ROAD FORRESTDALE WA 6112	Street number does not exist on this street	
+2A Shaw Street Killarney Vale NSW 2261	SHAW STREET KILLARNEY VALE NSW 2261	Street number does not exist on this street	
+3 Brand Street, South Hedland WA 6722	BRAND STREET SOUTH HEDLAND WA 6722	Street number does not exist on this street	
+312 LEWERS CLOSE, ABBOTSBURY NSW 2176	LEWERS CLOSE ABBOTSBURY NSW 2176	Street number does not exist on this street	
+312 South Road Moorabbin VIC 3189	SOUTH ROAD MOORABBIN VIC 3189	Street number does not exist on this street	
+31F/30 Darling Drive, Sydney NSW 2000	DARLING DRIVE SYDNEY NSW 2000	Street number does not exist on this street	
+333 Alfords Point Road, Menai, NSW 2234	ALFORDS POINT ROAD MENAI NSW 2234	Street number does not exist on this street	
+334 Birrell Street Tamarama, NSW 2026	334 BIRRELL ST, BONDI NSW 2026	Wrong suburb (a different real locality)	round2_reject_review; reason_by_harvest_rule
+37 Shelley Street, Sydney NSW 2000	SHELLEY STREET SYDNEY NSW 2000	Street number does not exist on this street	
+37-329 Woodpark Road Smithfield NSW 2164	WOODPARK ROAD SMITHFIELD NSW 2164	Street number does not exist on this street	
+373 Flinders Street, Townsville City, Queensland 4810	FLINDERS STREET TOWNSVILLE CITY QLD 4810	Street number does not exist on this street	
+38 Dowling Street, Arncliffe, New South Wales, 2205	DOWLING STREET ARNCLIFFE NSW 2205	Street number does not exist on this street	
+38 Fox Lane, Furner SA 5280	FOX LANE FURNER SA 5280	Street number does not exist on this street	
+39 Herbert St, St Leonards NSW 2065	39 HERBERT ST, ARTARMON NSW 2064	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+4 Arthur Street, Wellington NSW 2820	ARTHUR STREET WELLINGTON NSW 2820	Street number does not exist on this street	
+4 PARATOO ROAD, STIRLING, SOUTH AUSTRALIA 5152	4 PARATOO RD, ALDGATE SA 5154	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+4/321A Carabella Street, Kirribilli NSW 2061	CARABELLA STREET KIRRIBILLI NSW 2061	Street number does not exist on this street	
+40 CROYDON ROAD HURSTVILLE NSW 2220	CROYDON ROAD HURSTVILLE NSW 2220	Street number does not exist on this street	
+403 Coast Avenue, Cronulla NSW 2230	COAST AVENUE CRONULLA NSW 2230	Street number does not exist on this street	
+43 Cressnock Road, Ryhope, NSW 2283	CESSNOCK ROAD RYHOPE NSW 2283	Street number does not exist on this street	
+4304 Waterfall Way, Dorrigo NSW 2453	WATERFALL WAY DORRIGO NSW 2453	Street number does not exist on this street	
+446 Pacific Highway, Artarmon NSW 2064	PACIFIC HIGHWAY ARTARMON NSW 2064	Street number does not exist on this street	
+45116 Lincoln Crescent Woolloomooloo, NSW 2011	LINCOLN CRESCENT WOOLLOOMOOLOO NSW 2011	Street number does not exist on this street	
+48 Railway Terrace, Merrylands, New South Wales 2160	RAILWAY TERRACE MERRYLANDS NSW 2160	Street number does not exist on this street	
+49 Caseys Lane, Coraki NSW 2471	CASEY LANE CORAKI NSW 2471	Street number does not exist on this street	
+500 Church St North Parramatta NSW 2151	CHURCH STREET NORTH PARRAMATTA NSW 2151	Street number does not exist on this street	
+5013 Gamers Avenue Marrickville NSW 2204	GARNERS AVENUE MARRICKVILLE NSW 2204	Street number does not exist on this street	
+520 George St, SYDNEY, New South Wales 2000	GEORGE STREET SYDNEY NSW 2000	Street number does not exist on this street	
+54 Irrigation Road, South Wentworthville, NSW, 2145	IRRIGATION ROAD SOUTH WENTWORTHVILLE NSW 2145	Street number does not exist on this street	
+595 Canterbury Road, Canterbury, NSW 2193	595 CANTERBURY RD, BELMORE NSW 2192	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+6 Flinders Lane, Melbourne VIC 3000	FLINDERS LANE MELBOURNE VIC 3000	Street number does not exist on this street	
+619 Collector Road, Tarago NSW 2580	COLLECTOR ROAD TARAGO NSW 2580	Street number does not exist on this street	
+624 Neales Road, ROCKBANK VIC 3335	624-648 NEALE RD, DEANSIDE VIC 3336	Street name plural or possessive S wrong; Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+69 Buller Street NORTH PARRAMATTA NSW 2151	BULLER STREET NORTH PARRAMATTA NSW 2151	Street number does not exist on this street	
+7 King Street Sydney NSW 2000	KING STREET SYDNEY NSW 2000	Street number does not exist on this street	
+727 Collins Street, Melbourne VIC 3000	COLLINS STREET MELBOURNE VIC 3000	Street number does not exist on this street	
+78 Wellington Street, WATERLOO, NSW, 2017	WELLINGTON STREET WATERLOO NSW 2017	Street number does not exist on this street	
+80-82 McLachlan Avenue Rushcutters Bay NSW 2011	80-82 MCLACHLAN AV, DARLINGHURST NSW 2010	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+9 Epping Road Macquarie Park NSW 2113	EPPING ROAD MACQUARIE PARK NSW 2113	Street number does not exist on this street	
+90 Brolen Way, Cecil Park NSW 2178	BROLEN WAY CECIL PARK NSW 2178	Street number does not exist on this street	
+91 Tamar Road, Springvale South VIC 3172	TAMAR ROAD SPRINGVALE SOUTH VIC 3172	Street number does not exist on this street	
+92 Hambeldon Road, Schofields, NSW 2762	HAMBLEDON ROAD SCHOFIELDS NSW 2762	Street number does not exist on this street	
+D/70 GEORGE Street DOVER HEIGHTS NSW 2030	GEORGE STREET DOVER HEIGHTS NSW 2030	Street number does not exist on this street	
+Level 1, 2 Altona Street, WEST PERTH WA 6005	ALTONA STREET WEST PERTH WA 6005	Street number does not exist on this street	
+Level 12, 162 Goulburn Street, Sydney, NSW 2000	162-166 GOULBURN ST, SURRY HILLS NSW 2010	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+Level 3 339 Military Road Cremorne NSW 2090	MILITARY ROAD CREMORNE NSW 2090	Street number does not exist on this street	
+Level 3, 22 Clarendon Street, Sydney, New South Wales, 2000	CLARENCE STREET SYDNEY NSW 2000	Street number does not exist on this street	
+Level 3, 226 Clarence Street, Sydney NSW 2000	CLARENCE STREET SYDNEY NSW 2000	Street number does not exist on this street	
+Level 3, 6 Charles Avenue, Broadbeach QLD 4218	CHARLES AVENUE BROADBEACH QLD 4218	Street number does not exist on this street	
+Level 3, 642 Murray Street, West Perth, Western Australia 6005	MURRAY STREET WEST PERTH WA 6005	Street number does not exist on this street	
+Level 31, 480 Queen Street, Perth, Western Australia 6000	QUEEN STREET PERTH WA 6000	Street number does not exist on this street	
+Level 4, 3321 Central Place, Carrara, QLD, 4211	CENTRAL PLACE CARRARA QLD 4211	Street number does not exist on this street	
+Level 6, 31-39 Macquarie St Parramatta NSW 2150	MACQUARIE STREET PARRAMATTA NSW 2150	Street number does not exist on this street	
+Level 8, 19 Pier Street PERTH WA 6000	PIER STREET PERTH WA 6000	Street number does not exist on this street	
+Lot 1 Failford Road Failford NSW 2430	FAILFORD ROAD FAILFORD NSW 2430	Street number does not exist on this street	
+Lot 1 First Street, Yelta, Victoria, 3505	FIRST STREET YELTA VIC 3505	Street number does not exist on this street	
+Lot 100 Barry Way Jindabyne NSW 2627	BARRY WAY JINDABYNE NSW 2627	Street number does not exist on this street	
+Lot 105 Flowers Drive, Catherine Hill Bay, NSW 2281	FLOWERS DRIVE CATHERINE HILL BAY NSW 2281	Street number does not exist on this street	
+Lot 1331 Escarpment Place, Horsley NSW 2530	ESCARPMENT PLACE HORSLEY NSW 2530	Street number does not exist on this street	
+Lot 2 First Street, Yelta, Victoria, 3505	FIRST STREET YELTA VIC 3505	Street number does not exist on this street	
+Lot 3 Irymple Avenue, Nichols Point, Victoria, 3501	IRYMPLE AVENUE NICHOLS POINT VIC 3501	Street number does not exist on this street	
+Lot 424 Matilda Lane, Glenfield NSW 2167	MATILDA LANE GLENFIELD NSW 2167	Street number does not exist on this street	
+Lot 425 Matilda Lane, Glenfield NSW 2167	MATILDA LANE GLENFIELD NSW 2167	Street number does not exist on this street	
+Lot 426 Eleanor Drive, Glenfield NSW 2167	ELEANOR DRIVE GLENFIELD NSW 2167	Street number does not exist on this street	
+Lot 50 Caseys Lane, Coraki NSW 2471	CASEY LANE CORAKI NSW 2471	Street number does not exist on this street	
+Lot 83 Warialda Road, Inverell NSW 2360	WARIALDA ROAD INVERELL NSW 2360	Street number does not exist on this street	
+Unit 102a Vanessa Street, Kingsgrove NSW 2208	VANESSA STREET KINGSGROVE NSW 2208	Street number does not exist on this street	
+Unit 906 Harbour Street, Sydney NSW 2000	HARBOUR STREET SYDNEY NSW 2000	Street number does not exist on this street	
+rear 635 Princes Highway, Kogarah NSW 2217	(RETAIL) SHOP 1 635-637 PRINCES HWY, ROCKDALE NSW 2216	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+1 College St, St Ives, New South Wales, 2075	1 COLLEGE CR, ST IVES NSW 2075	Street type wrong (e.g. Road vs Avenue)	
+1 Victoria Avenue ADELAIDE SA 5000	1 VICTORIA DR, ADELAIDE SA 5000	Street type wrong (e.g. Road vs Avenue)	
+10 Rosetta Close, Raymond Terrace NSW 2324	10 ROSETTA WAY, RAYMOND TERRACE NSW 2324	Street type wrong (e.g. Road vs Avenue)	
+12 Victoria Parade CASTLE HILL NSW 2154	12 VICTORIA AV, CASTLE HILL NSW 2154	Street type wrong (e.g. Road vs Avenue)	
+122 Goswell Lane, Coraki NSW 2471	122 GOSWELL RD, CORAKI NSW 2471	Street type wrong (e.g. Road vs Avenue)	
+13 Leatherwood Crescent, Baulkham Hills NSW 2153	13 LEATHERWOOD CT, BAULKHAM HILLS NSW 2153	Street type wrong (e.g. Road vs Avenue)	
+132 Main Road, West Wyalong NSW 2671	132 MAIN ST, WEST WYALONG NSW 2671	Street type wrong (e.g. Road vs Avenue)	
+14A Chapel Street, Bankstown NSW 2200	14 CHAPEL RD, BANKSTOWN NSW 2200	Street type wrong (e.g. Road vs Avenue)	
+152 Henderson Street, Alexandria, NSW 2015	152 HENDERSON RD, ALEXANDRIA NSW 2015	Street type wrong (e.g. Road vs Avenue)	
+155 Northcote St, Swansea NSW 2281	155 NORTHCOTE AV, SWANSEA NSW 2281	Street type wrong (e.g. Road vs Avenue)	
+161 – 181 Redwood Circuit, Glenlogan QLD 4280	161-181 REDWOOD CIR, GLENLOGAN QLD 4280	Street type wrong (e.g. Road vs Avenue)	
+19 HERMITAGE WAY, GREENVALE, VIC 3059	19 HERMITAGE DR, GREENVALE VIC 3059	Street type wrong (e.g. Road vs Avenue)	
+19/59 Broadbeach Boulevarde, Broadbeach, Queensland, 4218	59-61 BROADBEACH BVD, BROADBEACH QLD 4218	Street type wrong (e.g. Road vs Avenue)	
+1A McDonald Lane, Potts Point NSW 2011	HABITAT UNIT 12 1 MCDONALD ST, POTTS POINT NSW 2011	Street type wrong (e.g. Road vs Avenue)	
+21 Seaforth Road, Seaforth NSW 2092	21 SEAFORTH CR, SEAFORTH NSW 2092	Street type wrong (e.g. Road vs Avenue)	
+226 Victoria Rd Potts Point NSW 2011	OMNIA 226 VICTORIA ST, POTTS POINT NSW 2011	Street type wrong (e.g. Road vs Avenue)	
+23 Bellevue Avenue GOODNA QLD 4300	23 BELLEVUE RD, GOODNA QLD 4300	Street type wrong (e.g. Road vs Avenue)	
+28/2 Rosebank Court, Glebe, NSW 2037	2 ROSEBANK ST, GLEBE NSW 2037	Street type wrong (e.g. Road vs Avenue)	
+287 Bay Road, Port Melbourne Victoria 3207	287 BAY ST, PORT MELBOURNE VIC 3207	Street type wrong (e.g. Road vs Avenue)	
+3 Wentworth Street, Beveridge, Victoria 3753	3 WENTWORTH TCE, BEVERIDGE VIC 3753	Street type wrong (e.g. Road vs Avenue)	
+3/15 Cunningham Place, Moorebank, NSW 2170	15 CUNNINGHAM ST, MOOREBANK NSW 2170	Street type wrong (e.g. Road vs Avenue)	
+34 Gabriella Street CECIL HILLS NSW 2171	34 GABRIELLA AV, CECIL HILLS NSW 2171	Street type wrong (e.g. Road vs Avenue)	
+40/2 Railway Parade, Lidcombe NSW 2141	2 RAILWAY ST, LIDCOMBE NSW 2141	Street type wrong (e.g. Road vs Avenue)	
+400 Chapel Street, Bankstown NSW 2200	400 CHAPEL RD, BANKSTOWN NSW 2200	Street type wrong (e.g. Road vs Avenue)	
+4A Wilson Road, Strathfield NSW 2135	4 WILSON ST, STRATHFIELD NSW 2135	Street type wrong (e.g. Road vs Avenue)	
+5 Chard Place, Brookvale NSW 2100	5 CHARD RD, BROOKVALE NSW 2100	Street type wrong (e.g. Road vs Avenue)	
+5 Kennedy Place, Guildford, New South Wales 2161	5 KENNEDY ST, GUILDFORD NSW 2161	Street type wrong (e.g. Road vs Avenue)	
+5 TURTUR PLACE, GOLDEN GROVE, SOUTH AUSTRALIA 5125	5 TURTUR CT, GOLDEN GROVE SA 5125	Street type wrong (e.g. Road vs Avenue)	
+56 Douglas Place, Thursday Island, Queensland 4875	56-58 DOUGLAS ST, THURSDAY ISLAND QLD 4875	Street type wrong (e.g. Road vs Avenue)	
+6 Derna Place, Allambie Heights New South Wales 2100	6 DERNA CR, ALLAMBIE HEIGHTS NSW 2100	Street type wrong (e.g. Road vs Avenue)	
+62 Isla Street, Glenroy VIC 3046	62 ISLA AV, GLENROY VIC 3046	Street type wrong (e.g. Road vs Avenue)	
+66 Cross Road, Guildford NSW 2161	66 CROSS ST, GUILDFORD NSW 2161	Street type wrong (e.g. Road vs Avenue)	
+7 River Road, Chinderah NSW 2487	7 RIVER ST, CHINDERAH NSW 2487	Street type wrong (e.g. Road vs Avenue)	
+8/12 Cape Three Points Beach, Avoca Beach NSW 2251	12 CAPE THREE POINTS RD, AVOCA BEACH NSW 2251	Street type wrong (e.g. Road vs Avenue)	
+98 McFarlane Road Minchinbury NSW 2770	98 MCFARLANE DR, MINCHINBURY NSW 2770	Street type wrong (e.g. Road vs Avenue)	
+99 Frome Road ADELAIDE SA 5000	99 FROME ST, ADELAIDE SA 5000	Street type wrong (e.g. Road vs Avenue)	
+12 Gateway Boulevarde Morisset NSW 2321	12 GATEWAY BVD, MORISSET NSW 2264	Street type wrong (e.g. Road vs Avenue); Postcode does not match	
+2142-2150 Castlereagh Street Penrith NSW 2751	SITE 1 2142-2150 CASTLEREAGH RD, PENRITH NSW 2750	Street type wrong (e.g. Road vs Avenue); Postcode does not match	
+23 Harbourne Street, Kingsford NSW 2031	23 HARBOURNE RD, KINGSFORD NSW 2032	Street type wrong (e.g. Road vs Avenue); Postcode does not match	
+29 Fennell Street, Blackalls Park, NSW, 2176	29 FENNELL CR, BLACKALLS PARK NSW 2283	Street type wrong (e.g. Road vs Avenue); Postcode does not match	
+4 Judith Street, Doncaster Victoria 3018	4 JUDITH CT, DONCASTER VIC 3108	Street type wrong (e.g. Road vs Avenue); Postcode does not match	
+6 Bangalow Street, Mona Vale, New South Wales, 2803	6 BANGALOW AV, MONA VALE NSW 2103	Street type wrong (e.g. Road vs Avenue); Postcode does not match	
+1 Bishopthorpe Lane Goulburn NSW 2580	BISHOP STREET GOULBURN NSW 2580	Street type wrong (e.g. Road vs Avenue); Street number does not exist on this street	
+28 Kean Parade, Thomastown, VIC 3074	28 KEON PDE, THOMASTOWN VIC 3074	Street name misspelt (1 character)	round2_reject_review; reason_by_harvest_rule
+Lot 51 Goswells Lane, Coraki NSW 2471	GOSWELL ROAD CORAKI NSW 2471	Street type wrong (e.g. Road vs Avenue); Street number does not exist on this street	
+1 ANZAC Street, Nrth St Marys NSW 2760	1 ANZAC ST, NORTH ST MARYS NSW 2760	Suburb abbreviated (e.g. Mt for Mount)	
+16 Blue Hills Avenue, Mt Waverley VIC 3149	16 BLUE HILLS AV, MOUNT WAVERLEY VIC 3149	Suburb abbreviated (e.g. Mt for Mount)	
+18 Nelson Street, Mt Druitt NSW 2770	18 NELSON ST, MOUNT DRUITT NSW 2770	Suburb abbreviated (e.g. Mt for Mount)	
+22 Northcote TCE Gilberton South Australia SA 5081	22 NORTHCOTE TCE, GILBERTON SA 5081	Suburb abbreviated (e.g. Mt for Mount)	
+52 Taloombi Street SOUTH CRONULLA NSW 2230	52 TALOOMBI ST, CRONULLA NSW 2230	Suburb abbreviated (e.g. Mt for Mount)	
+8 Strone Ave, Mt Ousley NSW 2519	8 STRONE AV, MOUNT OUSLEY NSW 2519	Suburb abbreviated (e.g. Mt for Mount)	
+8 Valley Ave, Mt Beauty VIC 3699	8 VALLEY AV, MOUNT BEAUTY VIC 3699	Suburb abbreviated (e.g. Mt for Mount)	
+895 Ann Street FORTITUDE VALLEY BC QLD 4006	895 ANN ST, FORTITUDE VALLEY QLD 4006	Suburb abbreviated (e.g. Mt for Mount)	
+Level 1, 1990 Logan Road Upper Mt Gravatt QLD 4122	1990 LOGAN RD, UPPER MOUNT GRAVATT QLD 4122	Suburb abbreviated (e.g. Mt for Mount)	
+5 Aberdeen Street, East Perth, Western Australia 6004	5 ABERDEEN ST, PERTH WA 6000	Suburb abbreviated (e.g. Mt for Mount); Postcode does not match	
+420 Liverpool Road, South Strathfield NSW 2135	416-420 LIVERPOOL RD, STRATHFIELD SOUTH NSW 2136	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+150 National Park Avenue Loftus NSW 2232	150 NATIONAL AV, LOFTUS NSW 2232	Suburb abbreviated (e.g. Mt for Mount); Street type wrong (e.g. Road vs Avenue)	
+955 Camden Valley Way Catherine Field New South Wales 2750	955 CAMDEN VALLEY WAY, CATHERINE FIELD NSW 2557	Postcode does not match	round2_reject_review; reason_edited_by_hand
+86 Sandy Point Road Nelson Bay NSW 2315	86 SANDY POINT RD, CORLETTE NSW 2315	Wrong suburb (a different real locality)	round2_reject_review; reason_edited_by_hand
+LOT 2334 DARWIN RIVER ROAD DARWIN RIVER NT 0841	DARWIN RIVER ROAD DARWIN RIVER NT 0841	Suburb abbreviated (e.g. Mt for Mount); Street type wrong (e.g. Road vs Avenue); Street number does not exist on this street	
+19 Hutchinson Street, Edge Hill CAIRNS QLD 4870	19 HUTCHINSON ST, EDGE HILL QLD 4870	Suburb is an unofficial or sub-locality name	
+19-21 Pirrama Road Pyrmont Point NSW 2009	19-21 PIRRAMA RD, PYRMONT NSW 2009	Suburb is an unofficial or sub-locality name	
+20 Onslow Street Canterbury Sydney Australia NSW 2193	20 ONSLOW ST, CANTERBURY NSW 2193	Suburb is an unofficial or sub-locality name	
+3 Summit Way, Thredbo Village, NSW 2625	3 SUMMIT WAY, THREDBO NSW 2625	Suburb is an unofficial or sub-locality name	
+317 - 321 Barrenjoey Road Newport Beach NSW 2106	317 BARRENJOEY RD, NEWPORT NSW 2106	Suburb is an unofficial or sub-locality name	
+366 Ocean Beach Road, Umina, NSW 2257	366 OCEAN BEACH RD, UMINA BEACH NSW 2257	Suburb is an unofficial or sub-locality name	
+4/27 Old Barrenjoey Road AVALON NSW 2107	UNIT 10 27 OLD BARRENJOEY RD, AVALON BEACH NSW 2107	Suburb is an unofficial or sub-locality name	
+45 Hillcrest Ave Hurstville NSW 2220	45 HILLCREST AV, HURSTVILLE GROVE NSW 2220	Suburb is an unofficial or sub-locality name	
+53 Malvern Ave, East Roseville NSW 2069	53 MALVERN AV, ROSEVILLE CHASE NSW 2069	Suburb is an unofficial or sub-locality name	
+56 Old Barrenjoey Road, Avalon, NSW, 2107	56 OLD BARRENJOEY RD, AVALON BEACH NSW 2107	Suburb is an unofficial or sub-locality name	
+64 Hazlemount Lane Tucki NSW 2480	64 HAZLEMOUNT LANE, TUCKI TUCKI NSW 2480	Suburb is an unofficial or sub-locality name	
+72 Island Parade Banksia Beach Bribie Island QLD 4507	72-74 ISLAND PDE, BANKSIA BEACH QLD 4507	Suburb is an unofficial or sub-locality name	
+8 Jackson Drive, Mascot Drive NSW 2020	UNIT 1402 8 JACKSON DR, MASCOT NSW 2020	Suburb is an unofficial or sub-locality name	
+96 Babbage Road ROSEVILLE NSW 2069	96 BABBAGE RD, ROSEVILLE CHASE NSW 2069	Suburb is an unofficial or sub-locality name	
+119 North Quay MELBOURNE VIC 3000	NORTHERN DRIVE MELBOURNE AIRPORT VIC 3045	Suburb is an unofficial or sub-locality name; Street type wrong (e.g. Road vs Avenue); Postcode does not match; Street number does not exist on this street	
+1 Eagle Street, Brisbane, QLD 4000	1 EAGLE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+1 Marlin Parade CAIRNS QLD 4870	1 MARLIN PDE, CAIRNS CITY QLD 4870	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+1 Spence St Cairns, QLD 4870	1 SPENCE ST, CAIRNS CITY QLD 4870	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+1 William Street, Brisbane, Queensland, 4000	1 WILLIAM ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+10 Ryeburn Close TRARALGON VIC 3844	10 RYEBURN CL, TRARALGON EAST VIC 3844	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+11 Foster Street QUEANBEYAN NSW 2620	11 FOSTER ST, QUEANBEYAN EAST NSW 2620	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+11 Gavin Street, Bundaberg, Queensland 4670	11 GAVIN ST, BUNDABERG NORTH QLD 4670	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+114 Middle Harbour Road, Lindfield NSW 2070	114 MIDDLE HARBOUR RD, EAST LINDFIELD NSW 2070	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+115 Hawthorn Road CAULFIELD VIC 3161	115 HAWTHORN RD, CAULFIELD NORTH VIC 3161	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+119 North Quay, Brisbane, Queensland 4000	COMMONWEALTH LAW COURTS LEVEL 1 119 NORTH QY, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+121 Grandview Road, New Lambton NSW 2305	121 GRANDVIEW RD, NEW LAMBTON HEIGHTS NSW 2305	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+123 Eagle Street, Brisbane, QLD, 4000	SHOP 11 123 EAGLE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+13 Elrington Avenue KEMPSEY NSW 2440	13 ELRINGTON AV, WEST KEMPSEY NSW 2440	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+139-155 Queensberry Street CARLTON SOUTH VIC 3053	THE EMINENCE 139-155 QUEENSBERRY ST, CARLTON VIC 3053	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+14 Janacek Place, Bonnyrigg NSW 2177	14 JANACEK PL, BONNYRIGG HEIGHTS NSW 2177	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+140 Creek Street, Brisbane QLD 4000	SUITE 1 LEVEL 10 140 CREEK ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+15 Reid Drive, Chatswood NSW 2067	15 REID DR, CHATSWOOD WEST NSW 2067	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+159 Arthur Street Homebush NSW 2140	159 ARTHUR ST, HOMEBUSH WEST NSW 2140	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+167 Blaxcell Street Granville NSW 2142	167 BLAXCELL ST, SOUTH GRANVILLE NSW 2142	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+201 Charlotte Street, Brisbane, Queensland 4000	201 CHARLOTTE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+21 Terry Street Tamworth NSW 2340	21 TERRY ST, SOUTH TAMWORTH NSW 2340	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+22 Mitchell Street Darwin NT 0800	22 MITCHELL ST, DARWIN CITY NT 0800	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+234 Milleara Road EAST KEILOR VIC 3033	234 MILLEARA RD, KEILOR EAST VIC 3033	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+235 Edward Street, Brisbane, QLD 4000	SHOP 12 235 EDWARD ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+272 Lake Street Cairns QLD 4870	272 LAKE ST, CAIRNS NORTH QLD 4870	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+29 Parkhill Avenue, Leumeah Heights NSW 2560	29 PARKHILL AV, LEUMEAH NSW 2560	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+300 Adelaide Street, BRISBANE QLD 4000	SUITE 1 LEVEL 12 300 ADELAIDE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+307 Queen Street BRISBANE QLD 4000	SUITE 1 LEVEL 13 307 QUEEN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+333 Brighton Road, Brighton South Australia 5048	333 BRIGHTON RD, NORTH BRIGHTON SA 5048	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+34-36 Fairfield Street Fairfield NSW 2165	34 FAIRFIELD ST, FAIRFIELD EAST NSW 2165	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+345 Queen Street BRISBANE QLD 4000	SHOP 1 345 QUEEN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+35 Birch Street, PRESTON WEST VIC 3072	35 BIRCH ST, PRESTON VIC 3072	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+35 Wisdom Street, GUILDFORD NSW 2161	35 WISDOM ST, GUILDFORD WEST NSW 2161	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+357 Marulan South Road, MARULAN SOUTH NSW 2579	OLD FARM 357 MARULAN SOUTH RD, MARULAN NSW 2579	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+366 Townsend Street, Albury, NSW, 2640	UNIT 1 366 TOWNSEND ST, SOUTH ALBURY NSW 2640	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+376 Moreland Road, West Brunswick VIC 3055	376 MORELAND RD, BRUNSWICK WEST VIC 3055	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+42 Lydiard Street South Ballarat, Victoria, 3350	WILD AFRICA TRAVEL COMPANY 42 LYDIARD ST SOUTH, BALLARAT CENTRAL VIC 3350	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+42B Aurora Avenue, Queanbeyan NSW 2620	42 AURORA AV, QUEANBEYAN EAST NSW 2620	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+43 Woodlands Road LINDFIELD NSW 2070	43 WOODLANDS RD, EAST LINDFIELD NSW 2070	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+444 Queen Street, Brisbane, Queensland, 4000	CARETAKERS RESIDENCE UNIT 22 444 QUEEN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+46 Greens Road, Dandenong, Victoria, 3175	46 GREENS RD, DANDENONG SOUTH VIC 3175	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+498 Coraki Road Gundurimba via Lismore NSW 2480	498 CORAKI RD, SOUTH GUNDURIMBA NSW 2480	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+5 Bower Parade, Singleton NSW 2330	5 BOWER PDE, SINGLETON HEIGHTS NSW 2330	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+5 Gregory Street, Queanbeyan NSW 2620	UNIT 1 5 GREGORY ST, QUEANBEYAN WEST NSW 2620	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+50 Condover Street, Balgowlah NSW 2093	50 CONDOVER ST, NORTH BALGOWLAH NSW 2093	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+500 Queen Street, Brisbane, Queensland 4000	SUITE 1 LEVEL 11 500 QUEEN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+51-52 Beaconsfield-Emerald Road, Upper Beaconsfield, VIC 3808	51 BEACONSFIELD-EMERALD RD, BEACONSFIELD UPPER VIC 3808	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+571 Ebden Street, Albury, NSW 2640	571 EBDEN ST, SOUTH ALBURY NSW 2640	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+59 Mitchell Street, Darwin NT 0800	59 MITCHELL ST, DARWIN CITY NT 0800	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+6 Daphne Street, Caringbah, NSW 2229	6 DAPHNE ST, CARINGBAH SOUTH NSW 2229	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+69 Mitchell Street, Darwin NT 0800	UNIT 1 69 MITCHELL ST, DARWIN CITY NT 0800	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+69 Newry Street NORTH FITZROY VIC 3068	69 NEWRY ST, FITZROY NORTH VIC 3068	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+7 Simmons Street BALMAIN NSW 2041	7 SIMMONS ST, BALMAIN EAST NSW 2041	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+78-80 Cosgrove Road, Strathfield NSW 2136	78-80 COSGROVE RD, STRATHFIELD SOUTH NSW 2136	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+787 Hunter Street, Newcastle NSW 2302	787 HUNTER ST, NEWCASTLE WEST NSW 2302	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+8-12 Natalia Avenue, Oakleigh VIC 3167	12 NATALIA AV, OAKLEIGH SOUTH VIC 3167	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+88 Gordon Avenue HAMILTON NSW 2303	BETHANY HOUSE 88 GORDON AV, HAMILTON SOUTH NSW 2303	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+9 Magdala Road, East Ryde, NSW 2113	9 MAGDALA RD, NORTH RYDE NSW 2113	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+95 Thomas Street Revesby Heights, NSW 2212	95 THOMAS ST, REVESBY NSW 2212	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Building 240 Margaret Street BRISBANE QLD 4000	SUITE 1 LEVEL 1 240 MARGARET ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+House 215 Adelaide Street BRISBANE QLD 4000	215 ADELAIDE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 1, 200 Mary Street, Brisbane Queensland 4000	SUITE 1 LEVEL 2 200 MARY ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 10, 10 Market Street, Brisbane, QLD, 4000	SUITE 1 LEVEL 11 10 MARKET ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 10, 12 Creek Street, Brisbane, QLD 4000	SUITE 1 LEVEL 11 12 CREEK ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 11, 66 Eagle Street Brisbane QLD, 4000	CENTRAL PLAZA TWO SHOP 1 66 EAGLE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 13, 160 Ann Street, Brisbane, Queensland, 4000	SUITE 1 LEVEL 17 160 ANN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 15, 270 Adelaide Street, Brisbane QLD 4000	LEVEL 10 270 ADELAIDE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 16, 333 Ann Street, Brisbane, QLD, 4000	SUITE 1 LEVEL 11 333 ANN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 16, 71 Eagle Street, Brisbane QLD 4000	UNIT 4103 71 EAGLE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 17, 141 Queen Street, Brisbane QLD 4000	141 QUEEN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 2, 262 Adelaide Street, Brisbane, Queensland, 4000	LEVEL 1 262 ADELAIDE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 26, 400 George Street, Brisbane QLD 4000	400 GEORGE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 5, 1 Treasury Place MELBOURNE VIC 3002	DEPARTMENT OF PREMIER AND CABINET 1 TREASURY PL, EAST MELBOURNE VIC 3002	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 5, 69 Ann Street BRISBANE QLD 4000	SUITE 1 LEVEL 22 69 ANN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 6, 295 Ann Street, BRISBANE QLD 4000	SUITE 1 LEVEL 14 295 ANN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 7, 10 Eagle Street, Brisbane QLD 4000	SUITE 1 LEVEL 13 10 EAGLE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 7,193 North Quay BRISBANE QLD 4000	SUITE 1 LEVEL 6 193 NORTH QY, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Level 8, 380 Queen Street, Brisbane, Queensland, 4000	SUITE 1 LEVEL 10 380 QUEEN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Shop 302 Murray St Hobart TAS 7000	302 MURRAY ST, NORTH HOBART TAS 7000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Tower 15 Lake Street CAIRNS QLD 4870	OFFICE 1 15 LAKE ST, CAIRNS CITY QLD 4870	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+Unit 9/120 Station Street, Fairfield, New South Wales, 2165	120 STATION ST, FAIRFIELD HEIGHTS NSW 2165	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+level 31, 480 Queen Street, Brisbane QLD 4000	480 QUEEN ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East)	
+1 Castle Hill Road, Pennant Hills NSW 2215	1 CASTLE HILL RD, WEST PENNANT HILLS NSW 2125	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+107 Woods Street Darwin NT 5790	107 WOODS ST, DARWIN CITY NT 0800	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+190 Hay Street PERTH WA 6000	UNIT 62 190 HAY ST, EAST PERTH WA 6004	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+60 William Street, Sydney NSW 2000	42-60 WILLIAM ST, NORTH SYDNEY NSW 2060	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+66 Eagle Street, Brisbane, Queensland 4001	CENTRAL PLAZA TWO SHOP 1 66 EAGLE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+78-80 Cosgrove Road, Strathfield NSW 2133	78-80 COSGROVE RD, STRATHFIELD SOUTH NSW 2136	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+80 William Street, Sydney NSW 2000	80 WILLIAM ST, NORTH SYDNEY NSW 2060	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+Level 16, 215 Adelaide Street, Brisbane, QLD 4001	215 ADELAIDE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+Level 22, 1 Eagle Street, Brisbane, Queensland, 4001	1 EAGLE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+Level 38, 71 Eagle Street, Brisbane QLD 2000	UNIT 4103 71 EAGLE ST, BRISBANE CITY QLD 4000	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+Level 7, 70 William Street, Sydney, NSW, 2000	70-72 WILLIAM ST, NORTH SYDNEY NSW 2060	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match	
+525 Collins Street Brisbane QLD 4000	COLIN STREET SOUTH BRISBANE QLD 4101	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Postcode does not match; Street number does not exist on this street	
+42B Aurora Avenue, Queanbeyan ACT 2620	42 AURORA AV, QUEANBEYAN EAST NSW 2620	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); State does not match	
+25 HALLAM AVE LANE COVE NSW 2066	25 HALLAM AV, LANE COVE WEST NSW 2066	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street direction suffix wrong (e.g. North missing)	
+5/530 Mowbray Road LANE COVE NSW 2066	UNIT 5 530 MOWBRAY RD WEST, LANE COVE NORTH NSW 2066	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street direction suffix wrong (e.g. North missing)	
+62 Cope Street, Lane Cove, NSW, 2066	62 COPE ST, LANE COVE WEST NSW 2066	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street direction suffix wrong (e.g. North missing)	
+Level 2, 2 Lincoln Street, Lane Cove NSW 2066	UNIT 1G 2 LINCOLN ST, LANE COVE WEST NSW 2066	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street direction suffix wrong (e.g. North missing)	
+Level 3 27 Mars Road Lane Cove NSW 2066	UNIT 6 27 MARS RD, LANE COVE WEST NSW 2066	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street direction suffix wrong (e.g. North missing)	
+Level 5 510 Church St North Parramatta NSW 2151	UNIT 27 504-516 CHURCH ST, NORTH PARRAMATTA NSW 2151	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street direction suffix wrong (e.g. North missing)	
+47 Mithinnia Circ West Hoxton NSW 2171	MATHINNA CIRCUIT WEST HOXTON NSW 2171	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street direction suffix wrong (e.g. North missing); Street number does not exist on this street	
+8937 Armidale Road Lower Creek NSW 2440	ARMIDALE ROAD LOWER CREEK NSW 2440	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street direction suffix wrong (e.g. North missing); Street number does not exist on this street	
+373 Flinders Street, Townsville, Queensland 4810	FLINDERS STREET TOWNSVILLE CITY QLD 4810	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street number does not exist on this street	
+39-41 Davey Street DARWIN NT 0800	HARVEY STREET DARWIN CITY NT 0800	Suburb missing or gaining a direction word (e.g. Queanbeyan vs Queanbeyan East); Street number does not exist on this street	
+58 Gregory St, Coogee NSW 2034	58 GREGORY ST, MAROUBRA NSW 2035	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+72 Bells Line of Road North Richmond, NSW 2754	72 BELLS LINE OF ROAD, NORTH RICHMOND NSW 2754	Unit, level or lot detail differs	round2_reject_review; reason_edited_by_hand
+78 Bells Line of Road North Richmond, NSW 2754	78 BELLS LINE OF ROAD, NORTH RICHMOND NSW 2754	Unit, level or lot detail differs	round2_reject_review; reason_edited_by_hand
+1/9 Dudley St, Annalerley, QLD 4103	9 DUDLEY ST, ANNERLEY QLD 4103	Suburb misspelt (1-2 characters)	
+10/310 Riley Street Surrey Hills New South Wales 2010	UNIT 15 310 RILEY ST, SURRY HILLS NSW 2010	Suburb misspelt (1-2 characters)	
+11/214-220 Princes Highway, Fair Meadow, New South Wales 2519	NORTHGATE CENTRE 214-220 PRINCES HWY, FAIRY MEADOW NSW 2519	Suburb misspelt (1-2 characters)	
+15/240 Caroline Springs Boulevard Carole Springs Victoria 3023	UNIT 1 240 CAROLINE SPRINGS BVD, CAROLINE SPRINGS VIC 3023	Suburb misspelt (1-2 characters)	
+151 Myrtle Street, Mylteford, Victoria 3737	151 MYRTLE ST, MYRTLEFORD VIC 3737	Suburb misspelt (1-2 characters)	
+158 Liz Kernohan Drive, Eldersile, NSW 2570	158 LIZ KERNOHAN DR, ELDERSLIE NSW 2570	Suburb misspelt (1-2 characters)	
+16 Karabah Place, Frenches Forest NSW 2086	16 KARABAH PL, FRENCHS FOREST NSW 2086	Suburb misspelt (1-2 characters)	
+17 Springfield Avenue Roseland NSW 2196	17 SPRINGFIELD AV, ROSELANDS NSW 2196	Suburb misspelt (1-2 characters)	
+17 Tulani Avenue, Delays Point, New South Wales 2257	17 TULANI AV, DALEYS POINT NSW 2257	Suburb misspelt (1-2 characters)	
+171 Dorrington Road, RATHMINE NSW 2283	171 DORRINGTON RD, RATHMINES NSW 2283	Suburb misspelt (1-2 characters)	
+172A Bridge Street Morriset NSW 2264	172 BRIDGE ST, MORISSET NSW 2264	Suburb misspelt (1-2 characters)	
+1758 Litchfield Rd, Witton NSW 2705	1758 LITCHFIELD RD, WHITTON NSW 2705	Suburb misspelt (1-2 characters)	
+19 Pope Street, Beverly, South Australia, 5009	19 POPE ST, BEVERLEY SA 5009	Suburb misspelt (1-2 characters)	
+2 Catherine Street, Leichardt, NSW 2040	2 CATHERINE ST, LEICHHARDT NSW 2040	Suburb misspelt (1-2 characters)	
+2 Woodfield Boulevard Carringbah NSW 2229	2 WOODFIELD BVD, CARINGBAH NSW 2229	Suburb misspelt (1-2 characters)	
+205 Victoria Street Beaconsfiefd NSW 2015	205-207 VICTORIA ST, BEACONSFIELD NSW 2015	Suburb misspelt (1-2 characters)	
+26 Edmondstone Road, Bowens Hill QLD 4006	26 EDMONDSTONE RD, BOWEN HILLS QLD 4006	Suburb misspelt (1-2 characters)	
+26 Grasslands Avenue CRAIGLEBURN VIC 3064	26 GRASSLANDS AV, CRAIGIEBURN VIC 3064	Suburb misspelt (1-2 characters)	
+262 Castlereagh Street SIDNEY NSW 2000	262 CASTLEREAGH ST, SYDNEY NSW 2000	Suburb misspelt (1-2 characters)	
+28 Madeline Street, Hunters Hills, NSW, 2110	28 MADELINE ST, HUNTERS HILL NSW 2110	Suburb misspelt (1-2 characters)	
+292 Big Jacks Creek Road, Big Jacks reek, NSW, 2339	ELLERSLIE PARK 292 BIG JACKS CREEK RD, BIG JACKS CREEK NSW 2339	Suburb misspelt (1-2 characters)	
+3 Glasgow Street Ruthglen VIC 3685	3 GLASGOW ST, RUTHERGLEN VIC 3685	Suburb misspelt (1-2 characters)	
+3/26 Bronte Road, Waverly NSW 2024	26 BRONTE RD, BONDI JUNCTION NSW 2022	Suburb misspelt (1-2 characters)	
+300 SAN FERNANDO DRIVE, WORONGAR QLD 4213	300 SAN FERNANDO DR, WORONGARY QLD 4213	Suburb misspelt (1-2 characters)	
+31 Belvoir Street Surrey Hills NSW 2010	THE POTTERY UNIT 2 31 BELVOIR ST, SURRY HILLS NSW 2010	Suburb misspelt (1-2 characters)	
+31 Caloola Crescent Beverley Hills NSW 2209	31 CALOOLA CR, BEVERLY HILLS NSW 2209	Suburb misspelt (1-2 characters)	
+32 Salisbury Street BAYSWTER WA 6053	32 SALISBURY ST, BAYSWATER WA 6053	Suburb misspelt (1-2 characters)	
+35 Rowley Road, Guilford New South Wales 2161	35 ROWLEY RD, GUILDFORD NSW 2161	Suburb misspelt (1-2 characters)	
+38 Gozzard Street, Gunaghlin ACT 2912	CARNABY UNIT 101 38 GOZZARD ST, GUNGAHLIN ACT 2912	Suburb misspelt (1-2 characters)	
+38 Malin Road, Oaks Flats NSW 2529	38 MALIN RD, OAK FLATS NSW 2529	Suburb misspelt (1-2 characters)	
+4/16 Hawke Drive Woolgoola NSW 2456	16 HAWKE DR, WOOLGOOLGA NSW 2456	Suburb misspelt (1-2 characters)	
+42 Riverside Rd Chipping North NSW 2170	42 RIVERSIDE RD, CHIPPING NORTON NSW 2170	Suburb misspelt (1-2 characters)	
+534 Wickham Hill Road, Kuilpo SA 5201	534 WICKHAM HILL RD, KUITPO SA 5201	Suburb misspelt (1-2 characters)	
+7 Dawes Ave, Lindon NSW 2778	7 DAWES AV, LINDEN NSW 2778	Suburb misspelt (1-2 characters)	
+7 Robinson Court, DELAHAY, VIC 3037	7 ROBINSON CT, DELAHEY VIC 3037	Suburb misspelt (1-2 characters)	
+75 Cabbage Tree Road, Williamstown, NSW 2318	75 CABBAGE TREE RD, WILLIAMTOWN NSW 2318	Suburb misspelt (1-2 characters)	
+79 - 85 Brougham Street, Wooloomooloo NSW 2011	UNIT 10 79-85 BROUGHAM ST, WOOLLOOMOOLOO NSW 2011	Suburb misspelt (1-2 characters)	
+8 Saiala Road, East Kiliara NSW 2071	8 SAIALA RD, EAST KILLARA NSW 2071	Suburb misspelt (1-2 characters)	
+82-94 Darlinghurst Road, Pott Points NSW 2011	ZENITH RESIDENCES 82-94 DARLINGHURST RD, POTTS POINT NSW 2011	Suburb misspelt (1-2 characters)	
+Alkan /126 Racecourse Road EMINGTON VIC 3031	UNIT 195 126 RACECOURSE RD, FLEMINGTON VIC 3031	Suburb misspelt (1-2 characters)	
+House 155 Varsity Parade Varisty Lakes QLD 4227	VARSITY CORPORATE 155 VARSITY PDE, VARSITY LAKES QLD 4227	Suburb misspelt (1-2 characters)	
+Level 1,11 Seymour Street TARARALGON VIC 3844	11 SEYMOUR ST, TRARALGON VIC 3844	Suburb misspelt (1-2 characters)	
+Level 6, 87 Marsden Street, Parrammatta, NSW, 2150	87 MARSDEN ST, PARRAMATTA NSW 2150	Suburb misspelt (1-2 characters)	
+Unit 15/ 49 Great Eastern Highway Riverdale WA 6103	EASTGATE SHOPPING CENTRE 49 GREAT EASTERN HWY, RIVERVALE WA 6103	Suburb misspelt (1-2 characters)	
+Ward 6 Bellevarde Parade Mono Vale NSW 2103	6 BELLEVARDE PDE, MONA VALE NSW 2103	Suburb misspelt (1-2 characters)	
+115 Quarry Road, Bossley Parl NSW 2170	115 QUARRY RD, BOSSLEY PARK NSW 2176	Suburb misspelt (1-2 characters); Postcode does not match	
+29 Taurus Street, Elemore Vale NSW 2267	VALES VIEW UNIT 42 29 TAURUS ST, ELERMORE VALE NSW 2287	Suburb misspelt (1-2 characters); Postcode does not match	
+971 Richmond Road, Marden Park NSW 2046	971 RICHMOND RD, MARSDEN PARK NSW 2765	Suburb misspelt (1-2 characters); Postcode does not match	
+33 Whyalla Street, Fyschwick, ACT 2904	WHYALLA STREET FYSHWICK ACT 2609	Suburb misspelt (1-2 characters); Postcode does not match; Street number does not exist on this street	
+31 Heritage Drive, N Mount Nathan, QLD 4211	31 HERITAGE DR NORTH, MOUNT NATHAN QLD 4211	Suburb misspelt (1-2 characters); Street direction suffix wrong (e.g. North missing)	
+Lot 42 Whitechapel Close Ambervale NSW 2560	WHITECHAPEL CLOSE AMBARVALE NSW 2560	Suburb misspelt (1-2 characters); Street number does not exist on this street	
+12 Gateway Boulevarde, Morrisset NSW 2264	12 GATEWAY BVD, MORISSET NSW 2264	Suburb misspelt (1-2 characters); Street type wrong (e.g. Road vs Avenue)	
+14 Queen Elizabeth St Coriki NSW 2471	12-16 QUEEN ELIZABETH DR, CORAKI NSW 2471	Suburb misspelt (1-2 characters); Street type wrong (e.g. Road vs Avenue)	
+6 Mackenzie Place, Beechborough, WA 6063	6 MACKENZIE PL, BEECHBORO WA 6063	Suburb misspelt (3+ characters)	
+12 WEBB ROAD BOOKER BAY-NSW 2257	12 WEBB RD, BOOKER BAY NSW 2257	Suburb word spacing wrong (e.g. Ferntree vs Fern Tree)	
+195 Great Western Highway, Wentworthfalls NSW 2782	195 GREAT WESTERN HWY, WENTWORTH FALLS NSW 2782	Suburb word spacing wrong (e.g. Ferntree vs Fern Tree)	
+26 Adeney Street, YARRA VILLE VIC 3013	26 ADENEY ST, YARRAVILLE VIC 3013	Suburb word spacing wrong (e.g. Ferntree vs Fern Tree)	
+44 Enright Street Easthills NSW 2213	44 ENRIGHT ST, EAST HILLS NSW 2213	Suburb word spacing wrong (e.g. Ferntree vs Fern Tree)	
+561 Burma Road, Tabletop NSW 2640	ETTAMOGAH PUB RESIDENCE 561 BURMA RD, TABLE TOP NSW 2640	Suburb word spacing wrong (e.g. Ferntree vs Fern Tree)	
+8 Summerleas Road, Ferntree, Tasmania, 7054	8 SUMMERLEAS RD, FERN TREE TAS 7054	Suburb word spacing wrong (e.g. Ferntree vs Fern Tree)	
+9 Rodd Road Fivedock NSW 2046	9 RODD RD, FIVE DOCK NSW 2046	Suburb word spacing wrong (e.g. Ferntree vs Fern Tree)	
+13-34 Pioneer Drive, Oakflats, NSW, 2528	13 PIONEER DR, OAK FLATS NSW 2529	Suburb word spacing wrong (e.g. Ferntree vs Fern Tree); Postcode does not match	
+5 Hume Highway Paddy's River NSW 2577	HUME HIGHWAY PADDYS RIVER NSW 2577	Suburb word spacing wrong (e.g. Ferntree vs Fern Tree); Street number does not exist on this street	
+563 Burma Road Tabletop NSW 2640	BURMA ROAD TABLE TOP NSW 2640	Suburb word spacing wrong (e.g. Ferntree vs Fern Tree); Street number does not exist on this street	
+1/11 Hainsworth Street Westmead NSW 2145	CUMBERLAND HOSPITAL 1-11 HAINSWORTH ST, WESTMEAD NSW 2145	Unit, level or lot detail differs	
+10 Wangee Road, Lakemba NSW 2195	KILLARNEY COURT UNIT 11 8-10 WANGEE RD, LAKEMBA NSW 2195	Unit, level or lot detail differs	
+11/265 Riley Street, Surry Hills NSW 2010	263-265 RILEY ST, SURRY HILLS NSW 2010	Unit, level or lot detail differs	
+1101 Canterbury Road, Wiley Park, NSW, 2195	KING GEORGE ESTATE UNIT 11 1089-1101 CANTERBURY RD, WILEY PARK NSW 2195	Unit, level or lot detail differs	
+12 CASTLEREAGH ST SYDNEY NSW 2000	8-12 CASTLEREAGH ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+123-130 South Terrace, Adelaide, SA, 5000	121-129 SOUTH TCE, ADELAIDE SA 5000	Unit, level or lot detail differs	
+124 Hassall Street, Wetherill Park NSW 2164	UNIT 13 122-124 HASSALL ST, WETHERILL PARK NSW 2164	Unit, level or lot detail differs	
+125 School Road, Logan Reserve, Queensland 4133	119-125 SCHOOL RD, LOGAN RESERVE QLD 4133	Unit, level or lot detail differs	
+131 Five Islands Road, Cringila NSW 2502	127-131 FIVE ISLANDS RD, CRINGILA NSW 2502	Unit, level or lot detail differs	
+147 Collins Street, Melbourne, Victoria 3000	141-165 COLLINS ST, MELBOURNE VIC 3000	Unit, level or lot detail differs	
+15 Monte Carlo Avenue, Surfers Paradise, Queensland 4217	SANTANA 7-15 MONTE CARLO AV, SURFERS PARADISE QLD 4217	Unit, level or lot detail differs	
+152 Pitt Street, Redfern, NSW 2016	UNIT 104 146-152 PITT ST, REDFERN NSW 2016	Unit, level or lot detail differs	
+160/422 Pitt Street, Sydney NSW 2000	SHOP 1 160 PITT ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+162A Eighth Street, Mildura, Victoria, 3500	162 EIGHTH ST, MILDURA VIC 3500	Unit, level or lot detail differs	
+167 Goulburn Street Surry Hills NSW 2010	SYDNEY POLICE CENTRE 151-241 GOULBURN ST, SURRY HILLS NSW 2010	Unit, level or lot detail differs	
+17/257 Henry Parry Drive North Gosford NSW 2250	UNIT 20 255-257 HENRY PARRY DR, NORTH GOSFORD NSW 2250	Unit, level or lot detail differs	
+177 Adcocks Road, Stokers Siding via Murwillumbah, NSW 2484	177 ADCOCKS RD, STOKERS SIDING NSW 2484	Unit, level or lot detail differs	
+198 Berkeley Street, Carlton VIC 3053	182-200 BERKELEY ST, CARLTON VIC 3053	Unit, level or lot detail differs	
+2/25 Macquarie Street, Sydney, NSW, 2000	25 MACQUARIE ST, ROSEBERY NSW 2018	Unit, level or lot detail differs	
+2/63 BAY STREET DOUBLE BAY NSW 2028	UNIT 7 61-63 BAY ST, DOUBLE BAY NSW 2028	Unit, level or lot detail differs	
+201 New South Head Rd Edgecliff NSW 2027	UNIT 9B 193-201 NEW SOUTH HEAD RD, EDGECLIFF NSW 2027	Unit, level or lot detail differs	
+203 Fisher Road Cromer NSW 2099	203 FISHER RD NORTH, CROMER NSW 2099	Unit, level or lot detail differs	
+217 Clarence Street SYDNEY NSW 2000	215-217 CLARENCE ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+2185 Castlereagh Road, Penrith NSW 2750	2181-2185 CASTLEREAGH RD, PENRITH NSW 2750	Unit, level or lot detail differs	
+22 Pitt Street Sydney NSW 2000	18-22 PITT ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+223 Herring Road, Macquarie Park NSW 2113	MACQUARIE SHOPPING CENTRE 197-223 HERRING RD, MACQUARIE PARK NSW 2113	Unit, level or lot detail differs	
+235 Burley Road Horsley Park New South Wales 2175	223-235 BURLEY RD, HORSLEY PARK NSW 2175	Unit, level or lot detail differs	
+242 George Street, Sydney NSW 2000	UNIT 21 234-242 GEORGE ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+265 Castlereagh Street, Sydney NSW 2000	263-265 CASTLEREAGH ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+28A Childe Street, Byron Bay NSW 2481	28 CHILDE ST, BYRON BAY NSW 2481	Unit, level or lot detail differs	
+29 Dumaresq Street, Campbelltown, New South Wales, 2560	UNIT 16 25-29 DUMARESQ ST, CAMPBELLTOWN NSW 2560	Unit, level or lot detail differs	
+3/88 Fergus Rd, Queanbeyan, New South Wales 2620	88 FERGUS RD, KARABAR NSW 2620	Unit, level or lot detail differs	
+32 Walsh Street, West Melbourne, Victoria, 3003	22-36 WALSH ST, WEST MELBOURNE VIC 3003	Unit, level or lot detail differs	
+335-337 KENT STREET, SYDNEY, NSW 2000	331-337 KENT ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+34 Weippin Street, Cleveland QLD 4163	EURO BUSINESS PARK 26-34 WEIPPIN ST, CLEVELAND QLD 4163	Unit, level or lot detail differs	
+340/401 Sussex Street, Sydney, NSW, 2000	401-403 SUSSEX ST, HAYMARKET NSW 2000	Unit, level or lot detail differs	
+36 Bay Street DOUBLE BAY NSW 2028	30-36 BAY ST, DOUBLE BAY NSW 2028	Unit, level or lot detail differs	
+388 Collins Street, Melbourne Victoria 3000	QUEEN AND COLLINS 376-390 COLLINS ST, MELBOURNE VIC 3000	Unit, level or lot detail differs	
+38a Angus Avenue, Kandos, NSW 2848	38 ANGUS AV, KANDOS NSW 2848	Unit, level or lot detail differs	
+40 Nepean Street, CRANEBROOK, NSW, 2749	36-40 NEPEAN ST, CRANEBROOK NSW 2749	Unit, level or lot detail differs	
+40A Park St, Sydney, NSW, 2000	40 PARK ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+41/19A-27 Norton Street, Leichhardt, New South Wales 2040	17-19 NORTON ST, LEICHHARDT NSW 2040	Unit, level or lot detail differs	
+462 Bourke Street, Melbourne Victoria 3000	458-466 BOURKE ST, MELBOURNE VIC 3000	Unit, level or lot detail differs	
+466 Collins Street, Melbourne, Victoria 3000	MAKERS MARK 464-466 COLLINS ST, MELBOURNE VIC 3000	Unit, level or lot detail differs	
+48 Albert Street, Moe, Victoria, 3825	46-48 ALBERT ST, MOE VIC 3825	Unit, level or lot detail differs	
+498 Coraki Road, South Gundurimba via Lismore, NSW 2480	498 CORAKI RD, SOUTH GUNDURIMBA NSW 2480	Unit, level or lot detail differs	
+58/60 Fourth Avenue, Campsie, NSW 2194	UNIT 1 58-60 FOURTH AV, CAMPSIE NSW 2194	Unit, level or lot detail differs	
+59 Harrington Street, Hobart TAS 7000	57-59 HARRINGTON ST, HOBART TAS 7000	Unit, level or lot detail differs	
+59 NEPEAN HIGHWAY, ELSTERNWICK VIC 3185	55-59 NEPEAN HWY, ELSTERNWICK VIC 3185	Unit, level or lot detail differs	
+609 Pacific Highway, Belmont, NSW 2280	607-609 PACIFIC HWY, BELMONT NSW 2280	Unit, level or lot detail differs	
+62 Woods Street, Laverton, Victoria 3028	58-62 WOODS ST, LAVERTON VIC 3028	Unit, level or lot detail differs	
+63 Myrtle Street Chippendale NSW 2008	61-63 MYRTLE ST, CHIPPENDALE NSW 2008	Unit, level or lot detail differs	
+67-71 Boronia Street, Kensington NSW 2033	65-71 BORONIA ST, KENSINGTON NSW 2033	Unit, level or lot detail differs	
+686 GEORGE STREET, SYDNEY, NEW SOUTH WALES, 2000	684-686 GEORGE ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+7 Anella Avenue, Castle Hill NSW 2154	UNIT 1 5-7 ANELLA AV, CASTLE HILL NSW 2154	Unit, level or lot detail differs	
+7 Bridge Street, Sydney NSW 2000	BURNS PHILP UNIT 14 5-11 BRIDGE ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+7 Bronte Road, BONDI JUNCTION, NSW, 2022	5-7 BRONTE RD, BONDI JUNCTION NSW 2022	Unit, level or lot detail differs	
+7 Saint Anthony Court, LARA VIC 3212	7 ST ANTHONY CT, LARA VIC 3212	Unit, level or lot detail differs	
+7 Wharf Street, Ipswich, Queensland 4305	5-7 WHARF ST, IPSWICH QLD 4305	Unit, level or lot detail differs	
+75/77 Main Hurstbridge Road Diamond Creek VIC 3089	75 MAIN HURSTBRIDGE RD, DIAMOND CREEK VIC 3089	Unit, level or lot detail differs	
+76 Rochford Road WALLAROO Via HALL NSW 2618	76 ROCHFORD RD, WALLAROO NSW 2618	Unit, level or lot detail differs	
+8/4656 KIPPAX ST, SURRY HILLS NSW 2010	46-56 KIPPAX ST, SURRY HILLS NSW 2010	Unit, level or lot detail differs	
+82 Pitt Street, Sydney, NSW, 2000	LEVEL 10 80-82 PITT ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+95 Pitt Street SYDNEY NSW 2000	PLAZA BUILDING 87-95 PITT ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+96 Belmore road, Riverwood, NSW, 2210	UNIT 10 92-100 BELMORE RD NORTH, RIVERWOOD NSW 2210	Unit, level or lot detail differs	
+Level 1, 3 Brady Street Mosman NSW 2088	SHOP 1 1-3 BRADY ST, MOSMAN NSW 2088	Unit, level or lot detail differs	
+Level 1, 50 Kings Park Road, West Perth, WA 6005	46-50 KINGS PARK RD, WEST PERTH WA 6005	Unit, level or lot detail differs	
+Level 10, 80 Clarence Street, Sydney NSW 2000	76-80 CLARENCE ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+Level 21 227 Elizabeth Street SYDNEY NSW 2000	AETNA LIFE TOWER 219-227 ELIZABETH ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+Level 3, 39 Hunter Street, Sydney NSW 2000	PERPETUAL TRUSTEE 33-39 HUNTER ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+Level 4, 342 George Street, Sydney NSW 2000	SHOP 1 340-346 GEORGE ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+Level 4, 430 Kent Street, Sydney, NSW 2000	CLARENCE KENT HOUSE 426-430 KENT ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+Level 5, 8 Thomas Street, Chatswood, NSW 2067	SHOP 3A 6-8 THOMAS ST, CHATSWOOD NSW 2067	Unit, level or lot detail differs	
+Level 6, 11 Elizabeth Street Sydney NSW 2000	9-19 ELIZABETH ST, SYDNEY NSW 2000	Unit, level or lot detail differs	
+Level 7, 420 Collins Street, Melbourne VIC 3000	VICTORY TOWER 416-420 COLLINS ST, MELBOURNE VIC 3000	Unit, level or lot detail differs	
+Lot 12 Barton Drive, Kiama Downs, NSW, 2533	12 BARTON DR, KIAMA DOWNS NSW 2533	Unit, level or lot detail differs	
+Lot 2 Irymple Avenue, Nichols Point, Victoria, 3501	2 IRYMPLE AV, NICHOLS POINT VIC 3501	Unit, level or lot detail differs	
+Lot 2 Little Cowra Road, Yelta, Victoria, 3505	2 LITTLE COWRA RD, YELTA VIC 3505	Unit, level or lot detail differs	
+Shop 5/138 Pacific Hwy Charlestown NSW 2290	SUITE 7 LEVEL 1 132-138 PACIFIC HWY, CHARLESTOWN NSW 2290	Unit, level or lot detail differs	
+Unit 12/33-35 Saint Ann Street, Merrylands NSW 2160	33-35 ST ANN ST, MERRYLANDS NSW 2160	Unit, level or lot detail differs	
+Unit 22/ 23-35 Scrivener Street Warwick Farm NSW 2170	21-51 SCRIVENER ST, WARWICK FARM NSW 2170	Unit, level or lot detail differs	
+1 Hobart Place, Canberra ACT 2601	1 HOBART PL, CITY ACT 2601	Wrong suburb (a different real locality)	
+1 Kinka Road, Terry Hills NSW 2084	1 KINKA RD, DUFFYS FOREST NSW 2084	Wrong suburb (a different real locality)	
+1 Oxford Street, Darlinghurst, New South Wales 2010	SUITE 1 1-19 OXFORD ST, SURRY HILLS NSW 2010	Wrong suburb (a different real locality)	
+1/768 Princes Highway, Sutherland, New South Wales, 2233	(RETAIL) SHOP 1 768 OLD PRINCES HWY, SUTHERLAND NSW 2232	Wrong suburb (a different real locality)	
+103 Soldiers Avenue, Harbord NSW 2096	103 SOLDIERS AV, FRESHWATER NSW 2096	Wrong suburb (a different real locality)	
+104 SUNDERLAND ST MOONAH TAS 7009	104 SUNDERLAND ST, DERWENT PARK TAS 7009	Wrong suburb (a different real locality)	
+120 Commonwealth Avenue Canberra ACT 2600	HYATT HOTEL 120 COMMONWEALTH AV, YARRALUMLA ACT 2600	Wrong suburb (a different real locality)	
+125 Whale Beach Road, WHALE BEACH NSW 2107	125 WHALE BEACH RD, AVALON BEACH NSW 2107	Wrong suburb (a different real locality)	
+134 Bunda St, Canberra City ACT 2601	HCF 134 BUNDA ST, CITY ACT 2601	Wrong suburb (a different real locality)	
+14 Kingdon Parade, Macquarie Fields, NSW 2564	14 KINGDON PDE, LONG POINT NSW 2564	Wrong suburb (a different real locality)	
+149A Rocky Point Road, Ramsgate NSW 2217	149 ROCKY POINT RD, BEVERLEY PARK NSW 2217	Wrong suburb (a different real locality)	
+15 Bruce Crescent, Warnervale, New South Wales 2259	15 BRUCE CR, WALLARAH NSW 2259	Wrong suburb (a different real locality)	
+15 Mort Street Canberra City ACT 2601	15 MORT ST, CITY ACT 2601	Wrong suburb (a different real locality)	
+1549 Boorolong Road Armidale NSW 2350	MARCHVILLA COTTAGE 1549 BOOROLONG RD, DUMARESQ NSW 2350	Wrong suburb (a different real locality)	
+16 Fowler Street, CHELSEA VIC 3196	16 FOWLER ST, BONBEACH VIC 3196	Wrong suburb (a different real locality)	
+16 Poplar Street, Darlinghurst NSW 2010	UNIT 55 6-18 POPLAR ST, SURRY HILLS NSW 2010	Wrong suburb (a different real locality)	
+16 Waterside Crescent Mount Pritchard NSW 2163	16 WATERSIDE CR, CARRAMAR NSW 2163	Wrong suburb (a different real locality)	
+161 Palmer Street, East Sydney, NSW 2010	161 PALMER ST, DARLINGHURST NSW 2010	Wrong suburb (a different real locality)	
+169 Morts Road Property NSW 2223	169 MORTS RD, MORTDALE NSW 2223	Wrong suburb (a different real locality)	
+17 Edward Street Arncliffe, NSW, 2205	17 EDWARD ST, TURRELLA NSW 2205	Wrong suburb (a different real locality)	
+17/135-146 Fryar Road, Eagleby Queensland 4207	135-205 FRYAR RD, LOGAN VILLAGE QLD 4207	Wrong suburb (a different real locality)	
+1725 Elizabeth Drive, Kemps Creek NSW 2178	1205-2053 ELIZABETH DR, CECIL PARK NSW 2178	Wrong suburb (a different real locality)	
+187 WALTERS RD ARNDELL PARK NSW 2148	187 WALTERS RD, BLACKTOWN NSW 2148	Wrong suburb (a different real locality)	
+189 Blackburn Road Blackburns Hill VIC 3130	189 BLACKBURN RD, BLACKBURN SOUTH VIC 3130	Wrong suburb (a different real locality)	
+19 Hickson Road, Walsh Bay, New South Wales 2000	UNIT 105 19 HICKSON RD, DAWES POINT NSW 2000	Wrong suburb (a different real locality)	
+196 Cobcroft Road Broke NSW 2330	196 COBCROFT RD, FORDWICH NSW 2330	Wrong suburb (a different real locality)	
+2 - 24 Rawson Place, Sydney NSW 2000	MCKELL BUILDING 2-24 RAWSON PL, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+20 Anderson St , East Botany, NSW 2019	20 ANDERSON ST, BANKSMEADOW NSW 2019	Wrong suburb (a different real locality)	
+200 Barangaroo Avenue, Sydney NSW 2000	TOWER 2 LEVEL 10 200 BARANGAROO AV, BARANGAROO NSW 2000	Wrong suburb (a different real locality)	
+200 Riley Street, Darlinghurst NSW 2010	UNIT 1 200 RILEY ST, SURRY HILLS NSW 2010	Wrong suburb (a different real locality)	
+21 Genge Street Canberra ACT 2601	21 GENGE ST, CITY ACT 2601	Wrong suburb (a different real locality)	
+224 Bunda Street, CANBERRA ACT 2601	SAP HOUSE 224 BUNDA ST, CITY ACT 2601	Wrong suburb (a different real locality)	
+225 George Street, Sydney NSW 2000	GROSVENOR PLACE 225 GEORGE ST, THE ROCKS NSW 2000	Wrong suburb (a different real locality)	
+23 Marcus Clarke Street, Canberra, ACT 2601	23 MARCUS CLARKE ST, CITY ACT 2601	Wrong suburb (a different real locality)	
+234 Palmer St, East Sydney NSW 2010	EAST VILLAGE 234-236 PALMER ST, DARLINGHURST NSW 2010	Wrong suburb (a different real locality)	
+241 Mulgoa Road, Penrith NSW 2750	TRADE CENTRE 241 MULGOA RD, JAMISONTOWN NSW 2750	Wrong suburb (a different real locality)	
+250 Parramatta Road, Flemington NSW 2140	FLEMINGTON MARKETS 250-318 PARRAMATTA RD, HOMEBUSH WEST NSW 2140	Wrong suburb (a different real locality)	
+27 Hallen Close Swinger Hill ACT 2606	27 HALLEN CL, PHILLIP ACT 2606	Wrong suburb (a different real locality)	
+28A Isles Drive, Coffs Harbour NSW 2450	28 ISLES DR, NORTH BOAMBEE VALLEY NSW 2450	Wrong suburb (a different real locality)	
+29/187 Thomas Street, Sydney NSW 2000	QUAY CONNECTION 187-189 THOMAS ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+3 Angourie Street Y AMBA NSW 2464	3 ANGOURIE ST, ANGOURIE NSW 2464	Wrong suburb (a different real locality)	
+3 Cowper Street HARRIS PARK NSW 2150	3 COWPER ST, PARRAMATTA NSW 2150	Wrong suburb (a different real locality)	
+3 Echunga Road, Terry Hills NSW 2084	3 ECHUNGA RD, DUFFYS FOREST NSW 2084	Wrong suburb (a different real locality)	
+3 Hobart Place, Canberra, ACT 2601	3 HOBART PL, CITY ACT 2601	Wrong suburb (a different real locality)	
+300 Barangaroo Avenue, Sydney NSW 2000	COMMERCIAL TOWER 3 300 BARANGAROO AV, BARANGAROO NSW 2000	Wrong suburb (a different real locality)	
+303 Castlereagh Street, Sydney, NSW 2000	REGIS TOWERS UNIT 336 303-321 CASTLEREAGH ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+311 Castlereagh Street Sydney NSW 2000	UNIT 702 311-315 CASTLEREAGH ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+312/12-14 Wirra Drive, Newport Quays, South Australia, 5015	THE SHORES UNIT 201 12-14 WIRRA DR, NEW PORT SA 5015	Wrong suburb (a different real locality)	
+36 Hardie Street, East Sydney NSW 2010	36 HARDIE ST, DARLINGHURST NSW 2010	Wrong suburb (a different real locality)	
+36/460 Pitt Street, Sydney, NSW, 2000	460 PITT ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+360 James Creek Road, Maclean NSW 2463	360 JAMES CREEK RD, JAMES CREEK NSW 2463	Wrong suburb (a different real locality)	
+39 WOOLWICH ROAD, WOOLWICH, NSW, 2110	39 WOOLWICH RD, HUNTERS HILL NSW 2110	Wrong suburb (a different real locality)	
+39-45 Lydbrook Street, Wentworthville NSW 2145	UNIT 10 39-45 LYDBROOK ST, WESTMEAD NSW 2145	Wrong suburb (a different real locality)	
+396-398 Anambah Road Gosforth, NSW, 2320	396 ANAMBAH RD, ANAMBAH NSW 2320	Wrong suburb (a different real locality)	
+4 Hosking Street, Mudgee NSW 2850	4 HOSKING ST, CAERLEON NSW 2850	Wrong suburb (a different real locality)	
+410-412 Botany Road, Alexandria NSW 2015	410-412 BOTANY RD, BEACONSFIELD NSW 2015	Wrong suburb (a different real locality)	
+416-418 Pitt Street, Sydney NSW 2000	REGIS TOWERS UNIT 29 414-418 PITT ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+42 Airport Road, Renmark SA, 5341	42 AIRPORT RD, OLD CALPERUM SA 5341	Wrong suburb (a different real locality)	
+43 Nixon Crescent, Wagga Wagga, NSW, 2650	43 NIXON CR, TOLLAND NSW 2650	Wrong suburb (a different real locality)	
+44 FULHAM ROAD, TOWNSVILLE QLD 4812	44 FULHAM RD, PIMLICO QLD 4812	Wrong suburb (a different real locality)	
+44 Wharf Road, West Ryde, NSW 2114	44 WHARF RD, MELROSE PARK NSW 2114	Wrong suburb (a different real locality)	
+4515 Clarence Town Road, Dungog NSW 2420	4515 CLARENCE TOWN RD, BROOKFIELD NSW 2420	Wrong suburb (a different real locality)	
+46a Macleay St, Potts Point, NSW 2011	46 MACLEAY ST, ELIZABETH BAY NSW 2011	Wrong suburb (a different real locality)	
+5 Longview Street, Birchgrove NSW 2041	5 LONGVIEW ST, BALMAIN NSW 2041	Wrong suburb (a different real locality)	
+50 Parramatta Rd, Glebe NSW 2037	50 PARRAMATTA RD, FOREST LODGE NSW 2037	Wrong suburb (a different real locality)	
+51 Andrews Road, Bendigo, Victoria 3551	51 ANDREWS RD, MAIDEN GULLY VIC 3551	Wrong suburb (a different real locality)	
+52 Doggett Street, Fortitude Valley, Queensland, 4006	52 DOGGETT ST, NEWSTEAD QLD 4006	Wrong suburb (a different real locality)	
+52 Gap Road, Alice Springs, NT, 0870	52 GAP RD, THE GAP NT 0870	Wrong suburb (a different real locality)	
+547 Kooringal Road, Wagga Wagga, NSW, 2650	547 KOORINGAL RD, LAKE ALBERT NSW 2650	Wrong suburb (a different real locality)	
+567 Kooringal Rd, Wagga Wagga NSW 2650	567 KOORINGAL RD, LAKE ALBERT NSW 2650	Wrong suburb (a different real locality)	
+6 Figtree Drive HOMEBUSH BAY, NSW, 2127	6 FIGTREE DR, SYDNEY OLYMPIC PARK NSW 2127	Wrong suburb (a different real locality)	
+6 Talbot Avenue, Balaclava VIC 3183	6 TALBOT AV, ST KILDA EAST VIC 3183	Wrong suburb (a different real locality)	
+60 Farm Road, Marsden Park, NSW, 2765	60 FARM RD, ANGUS NSW 2765	Wrong suburb (a different real locality)	
+60 Marcus Clarke Street, Canberra ACT 2601	ST GEORGE CENTRE 60 MARCUS CLARKE ST, CITY ACT 2601	Wrong suburb (a different real locality)	
+62 Graylands Road, Mount Claremont, Western Australia 6010	62 GRAYLANDS RD, CLAREMONT WA 6010	Wrong suburb (a different real locality)	
+64 Parramatta Road Glebe NSW 2037	64 PARRAMATTA RD, FOREST LODGE NSW 2037	Wrong suburb (a different real locality)	
+66 Darlinghurst Road, Kings Cross, NSW 2011	66 DARLINGHURST RD, POTTS POINT NSW 2011	Wrong suburb (a different real locality)	
+68 Riley Street East Sydney, NSW 2010	66-68 RILEY ST, DARLINGHURST NSW 2010	Wrong suburb (a different real locality)	
+71 Stephen Road Botany NSW 2019	UNIT 3 71-73 STEPHEN RD, BANKSMEADOW NSW 2019	Wrong suburb (a different real locality)	
+71 – 81 Goulburn Street, Sydney, NSW 2000	CHEQUERS SAUNA & MASSAGE 81 GOULBURN ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+728 George Street, Sydney NSW 2000	LEVEL 1 728 GEORGE ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+75 Camden St, Newtown NSW 2042	75 CAMDEN ST, ENMORE NSW 2042	Wrong suburb (a different real locality)	
+75-81 Darlinghurst Road, Kings Cross NSW 2011	75 DARLINGHURST RD, POTTS POINT NSW 2011	Wrong suburb (a different real locality)	
+758 George Street, SYDNEY NSW 2000	758 GEORGE ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+768 Friday Hut Road, Possum Creek, NSW 2479	768 FRIDAY HUT RD, BINNA BURRA NSW 2479	Wrong suburb (a different real locality)	
+77 Darlinghurst Road, Kings Cross NSW 2011	77 DARLINGHURST RD, POTTS POINT NSW 2011	Wrong suburb (a different real locality)	
+77 William Street EAST SYDNEY NSW 2010	77-83 WILLIAM ST, DARLINGHURST NSW 2010	Wrong suburb (a different real locality)	
+79 Constitution Avenue Canberra ACT 2612	HOUSING INDUSTRY ASSOCIATION 79 CONSTITUTION AV, CAMPBELL ACT 2612	Wrong suburb (a different real locality)	
+8 Quay Street SYDNEY NSW 2000	UNIT 79 8 QUAY ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+8-32 Campbell Avenue, Dee Why NSW 2099	8 CAMPBELL AV, CROMER NSW 2099	Wrong suburb (a different real locality)	
+84 HENRY STREET, GUILDFORD, NSW 2161	84 HENRY ST, OLD GUILDFORD NSW 2161	Wrong suburb (a different real locality)	
+85 Edmund Rice Drive, Ashmore, Queensland 4215	GOLD COAST PISTOL CLUB 85 EDMUND RICE DR, SOUTHPORT QLD 4215	Wrong suburb (a different real locality)	
+87 Princes Highway, Maddens Plains, New South Wales 2508	87 PRINCES HWY, HELENSBURGH NSW 2508	Wrong suburb (a different real locality)	
+95 Epping Road, North Ryde, NSW 2113	95-99 EPPING RD, MACQUARIE PARK NSW 2113	Wrong suburb (a different real locality)	
+97–99 Goulburn Street Sydney NSW 2000	97-99 GOULBURN ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+99 Bennett Rd, St Marys NSW 2760	99 BENNETT RD, COLYTON NSW 2760	Wrong suburb (a different real locality)	
+Level 13, 323 Castlereagh Street, Sydney, New South Wales 2000	323-339 CASTLEREAGH ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+Level 14, 59 Goulburn Street Sydney NSW 2000	SYDNEY PLAZA 59-69 GOULBURN ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+Level 25, 727 Collins Street, Melbourne, Victoria, 3008	COLLINS SQUARE TOWER 1 727 COLLINS ST, DOCKLANDS VIC 3008	Wrong suburb (a different real locality)	
+Level 3, 17 Brisbane Street DARLINGHURST NSW 2010	PHILAS HOUSE UNIT 1 17-19 BRISBANE ST, SURRY HILLS NSW 2010	Wrong suburb (a different real locality)	
+Level 3, 19-174 Willoughby Road Crows Nest NSW 2065	174 WILLOUGHBY RD, NAREMBURN NSW 2065	Wrong suburb (a different real locality)	
+Level 3, 22 Cooyong Street, CANBERRA ACT 2601	22 COOYONG ST, CITY ACT 2601	Wrong suburb (a different real locality)	
+Level 3, 67 Epping Road, North Ryde NSW 2113	67 EPPING RD, MACQUARIE PARK NSW 2113	Wrong suburb (a different real locality)	
+Level 4, 162 Goulburn Street, Sydney NSW 2010	162 GOULBURN ST, SURRY HILLS NSW 2010	Wrong suburb (a different real locality)	
+Level 4, 26-30 Lee Street SYDNEY NSW 2000	26 LEE ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+Level 4, 418 Pitt Street, Sydney, New South Wales 2000	REGIS TOWERS UNIT 29 414-418 PITT ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+Level 46, 100 Barangaroo Avenue, Sydney NSW 2000	COMMERCIAL TOWER 1 100 BARANGAROO AV, BARANGAROO NSW 2000	Wrong suburb (a different real locality)	
+Level 6 477 Pitt Street SYDNEY NSW 2000	FIRE HOUSE 477 PITT ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+Level 7, 301 Castlereagh Street, Sydney NSW 2000	UNIT 50 301 CASTLEREAGH ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+Level 8 14 Moore Street Canberra ACT 2601	DEFENCE BUILDING 14 MOORE ST, CITY ACT 2601	Wrong suburb (a different real locality)	
+Level 8, 154 Pacific Hwy St Leonards NSW 2065	154 PACIFIC HWY, GREENWICH NSW 2065	Wrong suburb (a different real locality)	
+Lot 102 Wonga Road Prestons NSW 2170	102 WONGA RD, LURNEA NSW 2170	Wrong suburb (a different real locality)	
+Lot 2 Withers Road, Rouse Hill, New South Wales 2155	2 WITHERS RD, NORTH KELLYVILLE NSW 2155	Wrong suburb (a different real locality)	
+Lot 9 Devon St, Camellia NSW 2142	SHELL REFINING 9 DEVON ST, ROSEHILL NSW 2142	Wrong suburb (a different real locality)	
+Shop 2/2 Lee Street, Sydney NSW 2000	MEDINA HOTEL/APARTMENTS 2 LEE ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality)	
+level 12, 1 Constitution Avenue, Canberra, ACT 2601	1 CONSTITUTION AV, CITY ACT 2601	Wrong suburb (a different real locality)	
+level 3, 16-22 Wentworth Avenue, Sydney, NSW 2010	SWALLOW BUILDING 16-22 WENTWORTH AV, SURRY HILLS NSW 2010	Wrong suburb (a different real locality)	
+1 Main St Robina, QLD 4226	BELLEVUE HOTEL 1 MAIN ST, COOMINYA QLD 4311	Wrong suburb (a different real locality); Postcode does not match	
+1 University Avenue, Macquarie University, NSW 2109	1 UNIVERSITY AV, MACQUARIE PARK NSW 2113	Wrong suburb (a different real locality); Postcode does not match	
+1/21 Chester Street Camperdown NSW 2050	21 WINCHESTER ST, CARLTON NSW 2218	Wrong suburb (a different real locality); Postcode does not match	
+12 Tantangara Street, Miller, New South Wales, 2170	12 TANTANGARA ST, HECKENBERG NSW 2168	Wrong suburb (a different real locality); Postcode does not match	
+13-39 Pilbara St, Amcap warehouse, WA 6986	13-39 PILBARA ST, WELSHPOOL WA 6106	Wrong suburb (a different real locality); Postcode does not match	
+134 Barcom Ave, Rushcutters Bay, NSW 1011	134 BARCOM AV, DARLINGHURST NSW 2010	Wrong suburb (a different real locality); Postcode does not match	
+134 Barcom Ave, Rushcutters Bay, NSW 2011	134 BARCOM AV, DARLINGHURST NSW 2010	Wrong suburb (a different real locality); Postcode does not match	
+23 Dobell Street, Yarrawarra, New South Wales, 2233	23 DOBELL ST, MOUNT PRITCHARD NSW 2170	Wrong suburb (a different real locality); Postcode does not match	
+3 Henry Street PEPPERMINT GROVE WA 6011	3 HENRY ST, LITTLE GROVE WA 6330	Wrong suburb (a different real locality); Postcode does not match	
+3 WELLINGTON STREET, WINDSOR, VICTORIA 3181	3 WELLINGTON ST, KINGS PARK VIC 3021	Wrong suburb (a different real locality); Postcode does not match	
+38 Bishop Street Winnellie NT 0821	UNIT 1 38 BISHOP ST, WOOLNER NT 0820	Wrong suburb (a different real locality); Postcode does not match	
+4 Neild Street, Rushcutters Bay, New South Wales 2011	4 NEIL ST, NORTH RYDE NSW 2113	Wrong suburb (a different real locality); Postcode does not match	
+72 Bartholomew Street, Lavington, NSW, 2642	72 BARTHOLOMEW ST, GLENROY NSW 2640	Wrong suburb (a different real locality); Postcode does not match	
+9 Ferngrove Place SOUTH GRANVILLE NSW 2142	9 FERNGROVE PL, CHESTER HILL NSW 2162	Wrong suburb (a different real locality); Postcode does not match	
+Level 1 125 Cosgrove Road Belfield NSW 2191	125 COSGROVE RD, STRATHFIELD SOUTH NSW 2136	Wrong suburb (a different real locality); Postcode does not match	
+118 Wallace Street Woollahra NSW 2025	WALLACE STREET KOTARA NSW 2289	Wrong suburb (a different real locality); Postcode does not match; Street number does not exist on this street	
+12241 George St Post Shop BRISBANE QLD 4003	GEORGE STREET DEPOT HILL QLD 4700	Wrong suburb (a different real locality); Postcode does not match; Street number does not exist on this street	
+131 Barry Parade SPRING HILL QLD 4004	BARRY PARADE FORTITUDE VALLEY QLD 4006	Wrong suburb (a different real locality); Postcode does not match; Street number does not exist on this street	
+25 Hoskins Avenue, Kemblawarra NSW 2505	25 HOSKINS AV, WARRAWONG NSW 2502	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+26 Lee St Sydney NSW 2001	26-30 LEE ST, HAYMARKET NSW 2000	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+27 Sirius Road Macquarie Park NSW 2113	SIRIUS ROAD UNANDERRA NSW 2526	Wrong suburb (a different real locality); Postcode does not match; Street number does not exist on this street	
+420 Beach Road, Woodburn NSW 2472	BEACH ROAD NEWPORT NSW 2106	Wrong suburb (a different real locality); Postcode does not match; Street number does not exist on this street	
+44 Barron Street, Mount Molloy, Queensland, 4871	BARR STREET MOUNT MORGAN QLD 4714	Wrong suburb (a different real locality); Postcode does not match; Street number does not exist on this street	
+485 Central Coast Highway, Long Jetty, NSW 2261	CENTRAL COAST HIGHWAY KARIONG NSW 2250	Wrong suburb (a different real locality); Postcode does not match; Street number does not exist on this street	
+7 Pearl Street ALTONA VIC 3018	EARL STREET CARLTON VIC 3053	Wrong suburb (a different real locality); Postcode does not match; Street number does not exist on this street	
+80 Northbourne Avenue CANBERRA ACT 2600	NORTHBOURNE AVENUE TURNER ACT 2612	Wrong suburb (a different real locality); Postcode does not match; Street number does not exist on this street	
+2241 Cadia Road, via Carcoar NSW 2791	NORTH WEST 2241 CADIA RD, ERROWANBANG NSW 2791	Wrong suburb (a different real locality); Street direction suffix wrong (e.g. North missing)	
+96 Cliff Avenue North Bridge NSW 2063	96 CLIFF AV, NORTHBRIDGE NSW 2063	Wrong suburb (a different real locality); Street direction suffix wrong (e.g. North missing)	
+96 Gloucester Street, Sydney NSW 2000	QUAY WEST SUITE 10 96-118 GLOUCESTER ST, THE ROCKS NSW 2000	Wrong suburb (a different real locality); Street direction suffix wrong (e.g. North missing)	
+1 Alfred Street, Circular Quay, NSW 2000	1 ALFRED ST, SYDNEY NSW 2000	Wrong suburb (a different real locality)	round2_reject_review; reason_by_harvest_rule
+6 Carter Street, HOMEBUSH BAY NSW 2127	CARTER STREET MATHOURA NSW 2710	Wrong suburb (a different real locality); Street direction suffix wrong (e.g. North missing); Postcode does not match; Street number does not exist on this street	
+13 Cullya Road, Orange, NSW 2800	CULLYA ROAD CLERGATE NSW 2800	Wrong suburb (a different real locality); Street number does not exist on this street	
+131 Barry Parade Spring Hill QLD 4006	BARRY PARADE FORTITUDE VALLEY QLD 4006	Wrong suburb (a different real locality); Street number does not exist on this street	
+16 – 18 Parraweena Road Taren Point NSW 2228	16-18 PARRAWEENA RD, CARINGBAH NSW 2229	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+16-18 Parraweena Road Taren Point NSW 2228	16-18 PARRAWEENA RD, CARINGBAH NSW 2229	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+39 Francis Street Minchinbury NSW 2770	FRANCIS STREET MOUNT DRUITT NSW 2770	Wrong suburb (a different real locality); Street number does not exist on this street	
+471 Dungog Road Vacy NSW 2421	471 DUNGOG RD, HILLDALE NSW 2420	Wrong suburb (a different real locality); Postcode does not match	round2_reject_review; reason_by_harvest_rule
+899 Swan Bay Road, NEW ITALY, NSW, 2472	899 SWAN BAY NEW ITALY RD, NEW ITALY NSW 2472	Street name missing or gaining a word	round2_reject_review; reason_by_harvest_rule
+Level 4 100 William Street East Sydney NSW 2011	(RETAIL) SHOP 1 100 WILLIAM ST, WOOLLOOMOOLOO NSW 2011	Wrong suburb (a different real locality)	round2_reject_review; reason_by_harvest_rule
+21-35 Chinderah Bay Drive, New South Wales, 2487	21 CHINDERAH RD, CHINDERAH NSW 2487	Wrong suburb (a different real locality); Street type wrong (e.g. Road vs Avenue)	
+65 Tumbalong Boulevarde SYDNEY NSW 2000	APARTMENT 3241 65 TUMBALONG BVD, HAYMARKET NSW 2000	Wrong suburb (a different real locality); Street type wrong (e.g. Road vs Avenue)	
+74 Dumaresq East Road Dumaresq NSW 2350	74 DUMARESQ ST, ARMIDALE NSW 2350	Wrong suburb (a different real locality); Street type wrong (e.g. Road vs Avenue)	
+119 North Quay Sydney NSW 2000	119 NORTH RD, RYDE NSW 2112	Wrong suburb (a different real locality); Street type wrong (e.g. Road vs Avenue); Postcode does not match	
+30 Denham Court Road, NSW, 2565	30 DENHAM COURT RD, DENHAM COURT NSW 2565	Wrong suburb (a different real locality)	round2_reject_review; reason_edited_by_hand
+28 Molonglo Mall, Fyshwick, ACT, 2609	MOLONGLO DRIVE CANBERRA AIRPORT ACT 2609	Wrong suburb (a different real locality); Street type wrong (e.g. Road vs Avenue); Street number does not exist on this street	
